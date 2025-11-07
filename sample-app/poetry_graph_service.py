@@ -8,10 +8,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Sequence
 
+from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
+
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE))
-sys.path.insert(0, str(HERE / "nano-graphrag"))
-sys.path.insert(0, str(HERE.parent / "nano-graphrag"))
 
 from nano_graphrag._llm import openai_embedding  # type: ignore
 

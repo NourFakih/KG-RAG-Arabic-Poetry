@@ -6,21 +6,28 @@ from typing import Dict, List, Tuple
 
 import csv
 import json
+import os
 import re
 import sys
-import os
 
-root = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(root / "nano_graphrag"))
+from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
 
 from nano_graphrag.graphrag import GraphRAG
 from nano_graphrag.base import QueryParam
 from nano_graphrag._storage import (
     Neo4jStorage,
     NetworkXStorage,
-    ChromaDBStorage,
-    FireStoreKVStorage,
 )
+
+try:  # optional extras are not always bundled with nano-graphrag
+    from nano_graphrag._storage import ChromaDBStorage
+except ImportError:  # pragma: no cover - depends on install flavour
+    ChromaDBStorage = None  # type: ignore
+
+try:
+    from nano_graphrag._storage import FireStoreKVStorage
+except ImportError:  # pragma: no cover
+    FireStoreKVStorage = None  # type: ignore
 
 from .baserag_runner import BaseRagRunner
 
@@ -98,6 +105,11 @@ class GraphRAGRunner(BaseRagRunner):
 
         env_chromadb_host = chromadb_host or os.getenv("CHROMADB_HOST")
         if env_chromadb_host:
+            if ChromaDBStorage is None:
+                raise ImportError(
+                    "ChromaDBStorage is unavailable in this nano-graphrag build. "
+                    "Remove CHROMADB_* settings or install the Chroma extra."
+                )
             graph_kwargs["vector_db_storage_cls"] = ChromaDBStorage
             vector_kwargs["host"] = env_chromadb_host
             port_value = (
@@ -141,6 +153,11 @@ class GraphRAGRunner(BaseRagRunner):
         env_firestore_project = firestore_project_id or os.getenv("FIRESTORE_PROJECT_ID")
         env_firestore_prefix = firestore_collection_prefix or os.getenv("FIRESTORE_COLLECTION_PREFIX")
         if use_firestore_kv or env_firestore_project:
+            if FireStoreKVStorage is None:
+                raise ImportError(
+                    "FireStoreKVStorage is unavailable in this nano-graphrag build. "
+                    "Disable Firestore KV support or install the Firestore extra."
+                )
             graph_kwargs.setdefault("key_string_value_json_storage_cls", FireStoreKVStorage)
             if env_firestore_project:
                 graph_kwargs["firestore_project_id"] = env_firestore_project

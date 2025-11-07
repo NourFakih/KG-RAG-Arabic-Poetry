@@ -25,6 +25,12 @@ Both modules expect the `nano-graphrag` repo to live next to `sample-app/` (whic
 3. Provide your LLM credentials (e.g. `OPENAI_API_KEY`) and, if you want to use Neo4j/Chroma, the corresponding
    connection variables. You can place them in `sample-app/.env`.
 
+> **Note**  
+> The embedded copy of `nano-graphrag` does not ship optional storage plugins such as ChromaDB or Firestore.
+> The wrapper now falls back to the built-in NanoVectorDB when these classes are missing. If you do need Chroma,
+> install the extras from the upstream project (for example `pip install ".[chroma]"`) before enabling the
+> `--chromadb-*` flags or related environment variables.
+
 The CLI and service default to in-process `NetworkX` + `NanoVectorDB`, so you can start locally without Neo4j/Chroma.
 
 ## CLI usage

@@ -4,12 +4,18 @@ import os
 import sys
 from pathlib import Path
 
+from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
+
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE / "nano-graphrag"))
 
 from nano_graphrag.graphrag import GraphRAG
 from nano_graphrag.base import QueryParam
-from nano_graphrag._storage import Neo4jStorage, ChromaDBStorage
+from nano_graphrag._storage import Neo4jStorage
+
+try:  # Chroma is optional in some installs
+    from nano_graphrag._storage import ChromaDBStorage
+except ImportError:  # pragma: no cover
+    ChromaDBStorage = None  # type: ignore
 from nano_graphrag._utils import logger
 
 
@@ -83,28 +89,35 @@ def build() -> None:
     working_dir.mkdir(parents=True, exist_ok=True)
 
     logger.info("Building GraphRAG index")
-    rag = GraphRAG(
+    vector_kwargs = {
+        "host": chroma_host,
+        "port": chroma_port,
+        "database": chroma_database,
+        "tenant": chroma_tenant,
+        "reset_collection": chroma_reset,
+    }
+    if chroma_collection:
+        vector_kwargs["collection_name"] = _sanitize_collection(chroma_collection)
+
+    rag_kwargs = dict(
         working_dir=str(working_dir),
         graph_storage_cls=Neo4jStorage,
-        vector_db_storage_cls=ChromaDBStorage,
-        vector_db_storage_cls_kwargs={
-            "host": chroma_host,
-            "port": chroma_port,
-            "database": chroma_database,
-            "tenant": chroma_tenant,
-            "reset_collection": chroma_reset,
-            **(
-                {"collection_name": _sanitize_collection(chroma_collection)}
-                if chroma_collection
-                else {}
-            ),
-        },
         addon_params={
             "neo4j_url": neo4j_url,
             "neo4j_auth": neo4j_auth,
         },
         enable_naive_rag=True,
     )
+
+    if ChromaDBStorage is not None:
+        rag_kwargs["vector_db_storage_cls"] = ChromaDBStorage
+        rag_kwargs["vector_db_storage_cls_kwargs"] = vector_kwargs
+    else:
+        logger.warning(
+            "ChromaDBStorage is not available; falling back to NanoVectorDB storage."
+        )
+
+    rag = GraphRAG(**rag_kwargs)
 
     logger.info("Indexing %s", book_path)
     rag.insert([text])

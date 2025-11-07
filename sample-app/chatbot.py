@@ -7,13 +7,19 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
+
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE / "nano-graphrag"))
 
 from openai import OpenAI
 from nano_graphrag.graphrag import GraphRAG  # type: ignore
 from nano_graphrag.base import QueryParam  # type: ignore
-from nano_graphrag._storage import Neo4jStorage, ChromaDBStorage  # type: ignore
+from nano_graphrag._storage import Neo4jStorage  # type: ignore
+
+try:  # optional storage backends
+    from nano_graphrag._storage import ChromaDBStorage  # type: ignore
+except ImportError:  # pragma: no cover
+    ChromaDBStorage = None  # type: ignore
 from nano_graphrag._utils import logger  # type: ignore
 
 
@@ -90,17 +96,25 @@ def initialise_rag() -> GraphRAG:
     if chroma_collection:
         vector_kwargs["collection_name"] = _sanitize_collection(chroma_collection)
 
-    rag = GraphRAG(
+    rag_kwargs = dict(
         working_dir=str(working_dir),
         graph_storage_cls=Neo4jStorage,
-        vector_db_storage_cls=ChromaDBStorage,
-        vector_db_storage_cls_kwargs=vector_kwargs,
         addon_params={
             "neo4j_url": neo4j_url,
             "neo4j_auth": neo4j_auth,
         },
         enable_naive_rag=True,
     )
+
+    if ChromaDBStorage is not None:
+        rag_kwargs["vector_db_storage_cls"] = ChromaDBStorage
+        rag_kwargs["vector_db_storage_cls_kwargs"] = vector_kwargs
+    else:
+        logger.warning(
+            "ChromaDBStorage is unavailable; defaulting to in-process NanoVectorDB storage."
+        )
+
+    rag = GraphRAG(**rag_kwargs)
     return rag, chat_model
 
 

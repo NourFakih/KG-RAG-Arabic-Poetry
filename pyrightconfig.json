@@ -1,0 +1,11 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "sample-app",
+      "extraPaths": ["nano-graphrag"]
+    },
+    {
+      "root": "nano-graphrag"
+    }
+  ]
+}
