@@ -1,0 +1,26 @@
+services:
+  neo4j:
+    image: neo4j:5
+    container_name: graphrag-neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      - NEO4J_AUTH=neo4j/NeoMastodon
+      - NEO4JLABS_PLUGINS=["graph-data-science"]
+      - NEO4J_dbms_security_procedures_unrestricted=gds.*
+      - NEO4J_server_memory_pagecache_size=1G
+      - NEO4J_server.memory.heap.initial_size=1G
+      - NEO4J_server.memory.heap.max_size=1G
+    # Uncomment if you want to persist Neo4j data locally
+    # volumes:
+    #   - ./neo4j_data:/data
+
+  chroma:
+    image: chromadb/chroma:0.4.24
+    container_name: graphrag-chroma
+    command: ["--host", "0.0.0.0", "--port", "8001"]
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./chroma:/data
