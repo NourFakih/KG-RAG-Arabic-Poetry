@@ -1,0 +1,506 @@
+{
+  "5": {
+    "report_string": "# Zafarat Wajd Ma Yaboukh Diramaha: A Poetic Exploration in the Ayyubid Context\n\nThe community centers around the poem 'Zafarat Wajd Ma Yaboukh Diramaha' by Sibt Ibn al-Tawawidhi, composed during the Ayyubid era, integrating traditional Arabic metrical patterns and rhyme schemes. The poem's thematic structure is heavily influenced by the historical and cultural nuances of its time, reflecting the longing and yearning inherent in its composition. Key elements such as Kamel meter and Meem rhyme enhance its lyrical beauty, offering readers a glimpse into the rich tapestry of classical Arabic poetry.\n\n## Sibt Ibn al-Tawawidhi's influence on the poem\n\nSibt Ibn al-Tawawidhi is the poet behind 'Zafarat Wajd Ma Yaboukh Diramaha,' and his unique style is evident in the work. As an acclaimed poet of the Ayyubid era, his compositions often encompass themes of longing and personal reflection, mirrored in this poem. His mastery of language and meter contributes significantly to the poem's impact and status within classical Arabic poetry.\n\n## Ayyubid era's historical context\n\nThe poem's setting in the Ayyubid era provides a rich historical backdrop, contributing to its themes and style. This period, marked by significant political and cultural developments in the Middle East, serves as a source of inspiration, influencing the poet's choice of themes such as longing and emotional introspection. This context allows readers to appreciate the poem's depth in light of the era's cultural heritage.\n\n## Significance of Kamel meter\n\nThe use of Kamel meter in 'Zafarat Wajd Ma Yaboukh Diramaha' is a testament to its rhythmic and structural precision in classical Arabic poetry. Known for its complete structure, the Kamel meter aids in establishing the poem's cadence, enhancing its lyrical emotiveness. This metrical choice reflects the traditional poetic practices of the time and underscores the poem's artistic merit.\n\n## Role of Meem rhyme\n\nThe poem employs a Meem rhyme, which adds a melodious quality to its structure. The consistent use of this rhyme scheme emphasizes the thematic cohesion and enhances the reader's auditory experience. In classic Arabic poetry, such rhyme schemes are integral to the poem's aesthetic, making the work memorable and impactful.\n\n## Accessibility through digital linkage\n\nThe presence of a link providing direct access to 'Zafarat Wajd Ma Yaboukh Diramaha' facilitates its modern-day exploration and appreciation. This digital connectivity ensures that historical literary works are preserved and disseminated widely, allowing contemporary audiences to engage with and learn from classical poetry's rich legacy.",
+    "report_json": {
+      "title": "Zafarat Wajd Ma Yaboukh Diramaha: A Poetic Exploration in the Ayyubid Context",
+      "summary": "The community centers around the poem 'Zafarat Wajd Ma Yaboukh Diramaha' by Sibt Ibn al-Tawawidhi, composed during the Ayyubid era, integrating traditional Arabic metrical patterns and rhyme schemes. The poem's thematic structure is heavily influenced by the historical and cultural nuances of its time, reflecting the longing and yearning inherent in its composition. Key elements such as Kamel meter and Meem rhyme enhance its lyrical beauty, offering readers a glimpse into the rich tapestry of classical Arabic poetry.",
+      "rating": 4.5,
+      "rating_explanation": "The impact severity rating is moderate due to the cultural and historical importance of the poem within classical Arabic literature.",
+      "findings": [
+        {
+          "summary": "Sibt Ibn al-Tawawidhi's influence on the poem",
+          "explanation": "Sibt Ibn al-Tawawidhi is the poet behind 'Zafarat Wajd Ma Yaboukh Diramaha,' and his unique style is evident in the work. As an acclaimed poet of the Ayyubid era, his compositions often encompass themes of longing and personal reflection, mirrored in this poem. His mastery of language and meter contributes significantly to the poem's impact and status within classical Arabic poetry."
+        },
+        {
+          "summary": "Ayyubid era's historical context",
+          "explanation": "The poem's setting in the Ayyubid era provides a rich historical backdrop, contributing to its themes and style. This period, marked by significant political and cultural developments in the Middle East, serves as a source of inspiration, influencing the poet's choice of themes such as longing and emotional introspection. This context allows readers to appreciate the poem's depth in light of the era's cultural heritage."
+        },
+        {
+          "summary": "Significance of Kamel meter",
+          "explanation": "The use of Kamel meter in 'Zafarat Wajd Ma Yaboukh Diramaha' is a testament to its rhythmic and structural precision in classical Arabic poetry. Known for its complete structure, the Kamel meter aids in establishing the poem's cadence, enhancing its lyrical emotiveness. This metrical choice reflects the traditional poetic practices of the time and underscores the poem's artistic merit."
+        },
+        {
+          "summary": "Role of Meem rhyme",
+          "explanation": "The poem employs a Meem rhyme, which adds a melodious quality to its structure. The consistent use of this rhyme scheme emphasizes the thematic cohesion and enhances the reader's auditory experience. In classic Arabic poetry, such rhyme schemes are integral to the poem's aesthetic, making the work memorable and impactful."
+        },
+        {
+          "summary": "Accessibility through digital linkage",
+          "explanation": "The presence of a link providing direct access to 'Zafarat Wajd Ma Yaboukh Diramaha' facilitates its modern-day exploration and appreciation. This digital connectivity ensures that historical literary works are preserved and disseminated widely, allowing contemporary audiences to engage with and learn from classical poetry's rich legacy."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 5",
+    "edges": [
+      [
+        "\"SIBT IBN AL-TAWAWIDHI\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'\"",
+        "\"RHYME ON LAM\""
+      ],
+      [
+        "\"LINK\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"MEEM RHYME\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"KAMEL METER\"",
+        "\"POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'\""
+      ],
+      [
+        "\"KAMEL METER\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"AYYUBID\"",
+        "\"الأبله البغدادي\""
+      ],
+      [
+        "\"RHYME ON LAM\"",
+        "\"كان لي قلبٌ فلما ارتحل\""
+      ],
+      [
+        "\"AYYUBID\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"GENERAL TYPE\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ]
+    ],
+    "nodes": [
+      "\"GENERAL TYPE\"",
+      "\"KAMEL METER\"",
+      "\"AYYUBID\"",
+      "\"LINK\"",
+      "\"RHYME ON LAM\"",
+      "\"SIBT IBN AL-TAWAWIDHI\"",
+      "\"POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'\"",
+      "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+    ],
+    "chunk_ids": [
+      "chunk-ea998bec94f22849ee883a0321ab76ad",
+      "chunk-38635e905de039277844d774b73be852",
+      "chunk-0684e35b2d82a7f48b6c2f4cf35586a2",
+      "chunk-f9878dec40a21f0a228621d45c5e28c5",
+      "chunk-0e6c2dbc17aeba39b27b6d2326c06450",
+      "chunk-f90ae905f13f736d4ec785b3dde27daf",
+      "chunk-18d5b8e3e34aa299526a11bff3b75f34",
+      "chunk-4e64a4aabaf691e02ae82cff3045b9e2",
+      "chunk-94b8f3e126592081efa168ee2e1187e9"
+    ],
+    "occurrence": 0.8181818181818182,
+    "sub_communities": []
+  },
+  "0": {
+    "report_string": "# Poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' by الطرماح بن حكيم الطائي\n\nThis community revolves around the classical Arabic poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' composed by الطرماح بن حكيم الطائي. The poem is structurally defined by the saree meter and the distinctive meem rhyme scheme. Central to the community is the Arabic Poetry Database, which provides access to the poem. Additionally, the general theme of the poem contributes to understanding its literary significance.\n\n## Poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' as the central entity\n\nThe poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' creates the backbone of this community, gathering entities like the Arabic Poetry Database and the poem's structure under its umbrella. Its significance lies in its poetic style, which highlights the elegance of classical Arabic poetry through its use of the saree meter and meem rhyme scheme. As a cultural artifact, it offers insights into the literary aesthetics of الطرماح بن حكيم الطائي's time.\n\n## Role of the Arabic Poetry Database\n\nThe Arabic Poetry Database plays a crucial role by providing access to the poem, facilitating literary analysis and appreciation. This access highlights the efforts to preserve and circulate Arabic literary heritage globally. As an organization, it bridges the gap between historical literary works and contemporary audiences, enabling ongoing scholarly and cultural dialogues about classical Arabic poetry.\n\n## Significance of the Meem Rhyme\n\nThe meem rhyme featured in the poem is central to its acoustic appeal, with the repetition of the 'm' sound enhancing its rhythmic quality. This rhyme scheme not only demonstrates the technical prowess of الطرماح بن حكيم الطائي but also contributes to the poem's emotional and artistic impact. The use of such rhyme schemes is a hallmark of classical Arabic poetry, underscoring the poem's place within this tradition.\n\n## Use of Saree Meter\n\nThe use of saree meter in 'يا دارُ أَقوَت بَعدَ أَصرامِها' showcases the poet's mastery of traditional poetic forms. This meter provides a specific rhythmic cadence that complements the theme and mood of the poem. Understanding this technical aspect is crucial for appreciating the sophistication and complexity involved in composing such works in classical Arabic poetry.\n\n## Exploration of General Themes\n\nThe general theme of the poem, while not explicitly detailed here, is an integral aspect of its interpretation and analysis. Such themes typically explore human experiences, emotions, and reflections on life, which resonate with the audience across different times. Identifying and understanding the overarching themes of classical Arabic poetry can provide valuable insights into the societal and cultural contexts in which they were written.",
+    "report_json": {
+      "title": "Poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' by الطرماح بن حكيم الطائي",
+      "summary": "This community revolves around the classical Arabic poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' composed by الطرماح بن حكيم الطائي. The poem is structurally defined by the saree meter and the distinctive meem rhyme scheme. Central to the community is the Arabic Poetry Database, which provides access to the poem. Additionally, the general theme of the poem contributes to understanding its literary significance.",
+      "rating": 3.0,
+      "rating_explanation": "The impact severity rating is low due to the poem's specific cultural and literary focus and its limited direct influence.",
+      "findings": [
+        {
+          "summary": "Poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' as the central entity",
+          "explanation": "The poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' creates the backbone of this community, gathering entities like the Arabic Poetry Database and the poem's structure under its umbrella. Its significance lies in its poetic style, which highlights the elegance of classical Arabic poetry through its use of the saree meter and meem rhyme scheme. As a cultural artifact, it offers insights into the literary aesthetics of الطرماح بن حكيم الطائي's time."
+        },
+        {
+          "summary": "Role of the Arabic Poetry Database",
+          "explanation": "The Arabic Poetry Database plays a crucial role by providing access to the poem, facilitating literary analysis and appreciation. This access highlights the efforts to preserve and circulate Arabic literary heritage globally. As an organization, it bridges the gap between historical literary works and contemporary audiences, enabling ongoing scholarly and cultural dialogues about classical Arabic poetry."
+        },
+        {
+          "summary": "Significance of the Meem Rhyme",
+          "explanation": "The meem rhyme featured in the poem is central to its acoustic appeal, with the repetition of the 'm' sound enhancing its rhythmic quality. This rhyme scheme not only demonstrates the technical prowess of الطرماح بن حكيم الطائي but also contributes to the poem's emotional and artistic impact. The use of such rhyme schemes is a hallmark of classical Arabic poetry, underscoring the poem's place within this tradition."
+        },
+        {
+          "summary": "Use of Saree Meter",
+          "explanation": "The use of saree meter in 'يا دارُ أَقوَت بَعدَ أَصرامِها' showcases the poet's mastery of traditional poetic forms. This meter provides a specific rhythmic cadence that complements the theme and mood of the poem. Understanding this technical aspect is crucial for appreciating the sophistication and complexity involved in composing such works in classical Arabic poetry."
+        },
+        {
+          "summary": "Exploration of General Themes",
+          "explanation": "The general theme of the poem, while not explicitly detailed here, is an integral aspect of its interpretation and analysis. Such themes typically explore human experiences, emotions, and reflections on life, which resonate with the audience across different times. Identifying and understanding the overarching themes of classical Arabic poetry can provide valuable insights into the societal and cultural contexts in which they were written."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 0",
+    "edges": [
+      [
+        "\"SAREE METER\"",
+        "\"يا دارُ أَقوَت بَعدَ أَصرامِها\""
+      ],
+      [
+        "\"MEEM RHYME\"",
+        "\"يا دارُ أَقوَت بَعدَ أَصرامِها\""
+      ],
+      [
+        "\"GENERAL THEME\"",
+        "\"يا دارُ أَقوَت بَعدَ أَصرامِها\""
+      ],
+      [
+        "\"MEEM RHYME\"",
+        "\"ZAFARAT WAJD MA YABOUKH DIRAMAHA\""
+      ],
+      [
+        "\"ARABIC POETRY DATABASE\"",
+        "\"يا دارُ أَقوَت بَعدَ أَصرامِها\""
+      ]
+    ],
+    "nodes": [
+      "\"GENERAL THEME\"",
+      "\"يا دارُ أَقوَت بَعدَ أَصرامِها\"",
+      "\"SAREE METER\"",
+      "\"MEEM RHYME\"",
+      "\"ARABIC POETRY DATABASE\""
+    ],
+    "chunk_ids": [
+      "chunk-df9fb40b781c35cb4e59566d727fc3c2",
+      "chunk-f90ae905f13f736d4ec785b3dde27daf"
+    ],
+    "occurrence": 0.18181818181818182,
+    "sub_communities": []
+  },
+  "1": {
+    "report_string": "# ArabicPoemRecord and Mamluk Era Poetry\n\nThe community is centered around the ArabicPoemRecord, a significant database and collection of Arabic poetry. The project includes poets such as النبهاني العماني from the Mamluk era. The relationships depicted illustrate how this community preserves, archives, and provides access to a wide range of poetic contributions across different timelines and poets.\n\n## ArabicPoemRecord as a central platform\n\nArabicPoemRecord plays a pivotal role as a central platform for the documentation and archival of Arabic poetry. It functions as a collection or database that encapsulates various fragments of Arabic literary work from different periods, providing metadata and details about each poem. This includes works from renowned poets, which underlines its value in academic and cultural contexts.\n\n## Inclusion of multiple poets\n\nThe ArabicPoemRecord includes works from various poets such as أبو الحسن الحصري and النبهاني العماني, demonstrating its wide scope in documenting diverse poetic traditions. By preserving the richness of their contributions, the database supports the study and appreciation of Arabic literature's evolution over time.\n\n## Focus on the Mamluk era\n\nالنبهاني العماني, a poet from the Mamluk era, is featured within the ArabicPoemRecord. His inclusion provides insight into the poetic styles and historical context from this particular period. The Mamluk era is crucial in understanding the development and thematic expressions in Arabic poetry, and this record gives users access to those historical insights.\n\n## Historical and cultural significance\n\nThe record has a strong cultural significance, as it captures the historical tapestry of Arabic poetry. By encompassing works across different time periods, it aids in preserving cultural heritage and offers educational resources for scholars studying these epochs. The record can be a cornerstone for understanding cultural narratives woven through poetry.\n\n## Documentation of individual works\n\nArabicPoemRecord does not only aggregate collection from eras and poets but also provides detailed documentation of individual poems. For example, the poem 'كان لي قلبٌ فلما ارتحل' and others are included with comprehensive details, highlighting its role as a definitive resource for study and reference in the field of Arab literary studies.",
+    "report_json": {
+      "title": "ArabicPoemRecord and Mamluk Era Poetry",
+      "summary": "The community is centered around the ArabicPoemRecord, a significant database and collection of Arabic poetry. The project includes poets such as النبهاني العماني from the Mamluk era. The relationships depicted illustrate how this community preserves, archives, and provides access to a wide range of poetic contributions across different timelines and poets.",
+      "rating": 3.5,
+      "rating_explanation": "The impact severity rating is moderate due to the cultural and historical significance of the Arabic poetry collections.",
+      "findings": [
+        {
+          "summary": "ArabicPoemRecord as a central platform",
+          "explanation": "ArabicPoemRecord plays a pivotal role as a central platform for the documentation and archival of Arabic poetry. It functions as a collection or database that encapsulates various fragments of Arabic literary work from different periods, providing metadata and details about each poem. This includes works from renowned poets, which underlines its value in academic and cultural contexts."
+        },
+        {
+          "summary": "Inclusion of multiple poets",
+          "explanation": "The ArabicPoemRecord includes works from various poets such as أبو الحسن الحصري and النبهاني العماني, demonstrating its wide scope in documenting diverse poetic traditions. By preserving the richness of their contributions, the database supports the study and appreciation of Arabic literature's evolution over time."
+        },
+        {
+          "summary": "Focus on the Mamluk era",
+          "explanation": "النبهاني العماني, a poet from the Mamluk era, is featured within the ArabicPoemRecord. His inclusion provides insight into the poetic styles and historical context from this particular period. The Mamluk era is crucial in understanding the development and thematic expressions in Arabic poetry, and this record gives users access to those historical insights."
+        },
+        {
+          "summary": "Historical and cultural significance",
+          "explanation": "The record has a strong cultural significance, as it captures the historical tapestry of Arabic poetry. By encompassing works across different time periods, it aids in preserving cultural heritage and offers educational resources for scholars studying these epochs. The record can be a cornerstone for understanding cultural narratives woven through poetry."
+        },
+        {
+          "summary": "Documentation of individual works",
+          "explanation": "ArabicPoemRecord does not only aggregate collection from eras and poets but also provides detailed documentation of individual poems. For example, the poem 'كان لي قلبٌ فلما ارتحل' and others are included with comprehensive details, highlighting its role as a definitive resource for study and reference in the field of Arab literary studies."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 1",
+    "edges": [
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"MAMLUK\"",
+        "\"النبهاني العماني\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"كان لي قلبٌ فلما ارتحل\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"النبهاني العماني\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"أبو الحسن الحصري\""
+      ]
+    ],
+    "nodes": [
+      "\"ARABICPOEMRECORD\"",
+      "\"النبهاني العماني\"",
+      "\"MAMLUK\""
+    ],
+    "chunk_ids": [
+      "chunk-48a220389ef652b63a702a882d91f75e",
+      "chunk-38635e905de039277844d774b73be852",
+      "chunk-0684e35b2d82a7f48b6c2f4cf35586a2",
+      "chunk-33b8de86f4eb6b8fb669ef756f05673b",
+      "chunk-f9c13971ee77a7f680fa113938891a9a",
+      "chunk-649c8222b26b97de373cec4a226cfd65",
+      "chunk-f97098d1bb8939c473732d8493e8d2dd",
+      "chunk-0e6c2dbc17aeba39b27b6d2326c06450",
+      "chunk-d762a14c782898309fae3873fe21f97b",
+      "chunk-88eeef6ad076d682b869ecc06eef6af2",
+      "chunk-94b8f3e126592081efa168ee2e1187e9"
+    ],
+    "occurrence": 1.0,
+    "sub_communities": []
+  },
+  "2": {
+    "report_string": "# Arabic Poetic Tradition and Ayyubid Era Poets\n\nThe community centers around Arabic poetic tradition during the Ayyubid Era, featuring key figures like محيي الدين بن عربي and Ibn Sanāʾ Al-Mulk. The central pieces in this community are the Arabic Poem Record, a database for these poets' works, and محيي الدين بن عربي's poem 'كان لي قلبٌ فلما ارتحل', known for its romantic and philosophical themes using Ramel meter.\n\n## Significance of the 'كان لي قلبٌ فلما ارتحل' Poem\n\nThe poem 'كان لي قلبٌ فلما ارتحل' by محيي الدين بن عربي is a central piece in this community. It is noted for its usage of the traditional Ramel meter and its focus on themes of love and longing. The lyrical quality of the poem is enhanced by its rhyme on the letter 'lam'. This poem exemplifies the rich emotional and philosophical depth characteristic of Arab poetry during the Ayyubid era.\n\n## Role of Arabic Poem Record\n\nThe Arabic Poem Record serves as a vital repository for preserving the works of poets like Ibn Sanāʾ Al-Mulk. By cataloging poems such as 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل,' the Record ensures these historical works are accessible and maintained for cultural heritage. This helps in studying the literary styles of the era and provides context to the poetic traditions during the Ayyubid period.\n\n## Metrical Form: Ramel Meter\n\nThe Ramel Meter, used in 'كان لي قلبٌ فلما ارتحل,' plays a significant role in the poem's impact. As a characteristic metrical pattern in Arabic poetry, it contributes to the rhythm and artistic expression of the piece. Its inclusion in the poem underscores the importance of metrical form in connecting with the audience on a cultural and emotional level.\n\n## Cultural Context of the Ayyubid Era\n\nThe Ayyubid Era is a backdrop for the works of both Ibn Sanāʾ Al-Mulk and محيي الدين بن عربي. This period was marked by significant cultural and intellectual activity within the Islamic world. Understanding the historical and cultural context in which these poets wrote helps in appreciating the themes and styles prevalent in their poetry.\n\n## Literary Contributions by محيي الدين بن عربي\n\nمحيي الدين بن عربي, a central figure in this community, is renowned for his romantic poems that blend deep emotion with philosophical themes. His works, including 'كان لي قلبٌ فلما ارتحل,' are reflective of the broader philosophical undercurrents present in the literary culture of his time, and he remains a significant reference point for students of Arabic literature.",
+    "report_json": {
+      "title": "Arabic Poetic Tradition and Ayyubid Era Poets",
+      "summary": "The community centers around Arabic poetic tradition during the Ayyubid Era, featuring key figures like محيي الدين بن عربي and Ibn Sanāʾ Al-Mulk. The central pieces in this community are the Arabic Poem Record, a database for these poets' works, and محيي الدين بن عربي's poem 'كان لي قلبٌ فلما ارتحل', known for its romantic and philosophical themes using Ramel meter.",
+      "rating": 6.0,
+      "rating_explanation": "The impact severity rating is moderate due to the literary and cultural significance of the poets and their contributions to the Arabic poetic tradition.",
+      "findings": [
+        {
+          "summary": "Significance of the 'كان لي قلبٌ فلما ارتحل' Poem",
+          "explanation": "The poem 'كان لي قلبٌ فلما ارتحل' by محيي الدين بن عربي is a central piece in this community. It is noted for its usage of the traditional Ramel meter and its focus on themes of love and longing. The lyrical quality of the poem is enhanced by its rhyme on the letter 'lam'. This poem exemplifies the rich emotional and philosophical depth characteristic of Arab poetry during the Ayyubid era."
+        },
+        {
+          "summary": "Role of Arabic Poem Record",
+          "explanation": "The Arabic Poem Record serves as a vital repository for preserving the works of poets like Ibn Sanāʾ Al-Mulk. By cataloging poems such as 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل,' the Record ensures these historical works are accessible and maintained for cultural heritage. This helps in studying the literary styles of the era and provides context to the poetic traditions during the Ayyubid period."
+        },
+        {
+          "summary": "Metrical Form: Ramel Meter",
+          "explanation": "The Ramel Meter, used in 'كان لي قلبٌ فلما ارتحل,' plays a significant role in the poem's impact. As a characteristic metrical pattern in Arabic poetry, it contributes to the rhythm and artistic expression of the piece. Its inclusion in the poem underscores the importance of metrical form in connecting with the audience on a cultural and emotional level."
+        },
+        {
+          "summary": "Cultural Context of the Ayyubid Era",
+          "explanation": "The Ayyubid Era is a backdrop for the works of both Ibn Sanāʾ Al-Mulk and محيي الدين بن عربي. This period was marked by significant cultural and intellectual activity within the Islamic world. Understanding the historical and cultural context in which these poets wrote helps in appreciating the themes and styles prevalent in their poetry."
+        },
+        {
+          "summary": "Literary Contributions by محيي الدين بن عربي",
+          "explanation": "محيي الدين بن عربي, a central figure in this community, is renowned for his romantic poems that blend deep emotion with philosophical themes. His works, including 'كان لي قلبٌ فلما ارتحل,' are reflective of the broader philosophical undercurrents present in the literary culture of his time, and he remains a significant reference point for students of Arabic literature."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 2",
+    "edges": [
+      [
+        "\"كان لي قلبٌ فلما ارتحل\"",
+        "\"محيي الدين بن عربي\""
+      ],
+      [
+        "\"RAMEL METER\"",
+        "\"كان لي قلبٌ فلما ارتحل\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"كان لي قلبٌ فلما ارتحل\""
+      ],
+      [
+        "\"AYYUBID ERA\"",
+        "\"IBN SANĀʾ AL-MULK\""
+      ],
+      [
+        "\"ARABIC POEM RECORD\"",
+        "\"IBN SANĀʾ AL-MULK\""
+      ],
+      [
+        "\"AYYUBID ERA\"",
+        "\"محيي الدين بن عربي\""
+      ],
+      [
+        "\"RHYME ON LAM\"",
+        "\"كان لي قلبٌ فلما ارتحل\""
+      ]
+    ],
+    "nodes": [
+      "\"RAMEL METER\"",
+      "\"IBN SANĀʾ AL-MULK\"",
+      "\"محيي الدين بن عربي\"",
+      "\"ARABIC POEM RECORD\"",
+      "\"كان لي قلبٌ فلما ارتحل\"",
+      "\"AYYUBID ERA\""
+    ],
+    "chunk_ids": [
+      "chunk-086c2b9a69446413e535b12a43458992",
+      "chunk-0e6c2dbc17aeba39b27b6d2326c06450",
+      "chunk-f9878dec40a21f0a228621d45c5e28c5",
+      "chunk-6afff7c50347c9fca9a0d553cabf9ead"
+    ],
+    "occurrence": 0.36363636363636365,
+    "sub_communities": []
+  },
+  "3": {
+    "report_string": "# Poem 'هجروا فواصل جفني السهر' by الأبله البغدادي\n\nThe community centers around the Arabic elegy poem 'هجروا فواصل جفني السهر,' authored by الأبله البغدادي. This poem is a classic example of an elegy, characterized by its thematic focus on mourning and remembrance, and written in the complete form of the kamel meter. The community's structure highlights connections between various poetic elements, meter, and historical context associated with the Ayyubid era poet.\n\n## Significance of the poem 'هجروا فواصل جفني السهر'\n\nThe poem 'هجروا فواصل جفني السهر' serves as the nucleus of this community, showcasing its distinct properties and connections. It is classified as an elegy, a genre traditionally focused on themes of mourning and nostalgia, which situates it within a specific cultural and literary context. This classification is significant because it frames the poem's thematic exploration and establishes its relevance within the elegy tradition.\n\n## Role of الأبله البغدادي as the poet\n\nالأبله البغدادي, recognized as the poet of the poem, offers insight into the poetic traditions of the Ayyubid era. The association with this historical period provides a rich context for the poem's themes and stylistic choices, reflecting the cultural and intellectual environment of the time. This connection underlines the historical significance of the poem and its creator, contributing to a deeper understanding of the literary heritage.\n\n## Use of Kamel meter\n\nThe poem's structure relies on the kamel meter, a poetic framework known for its rhythmic pattern. This meter enhances the lyrical quality of the poem, supporting its emotive themes. The use of a complete form of the kamel meter suggests meticulous attention to poetic structure, reinforcing the artistry and technical prowess involved in its composition.\n\n## Rhyme scheme featuring the letter 'Raa'\n\nRhyme plays a pivotal role in the poem's aesthetic appeal, with the letter 'raa' being central to its scheme. This strategic use of rhyme underscores the poem's musicality and aids in the reinforcement of its thematic elements. The rhyme scheme's elegance is a testament to the poem's alignment with Arabic poetic traditions, emphasizing the auditory experience of the poetry.\n\n## Online access via a dedicated URL\n\nThe accessibility of the poem through the specified URL provides valuable opportunities for broader academic and literary engagement. This online resource allows readers and researchers to explore the poem in greater depth, facilitating scholarly analysis and appreciation of its nuances. It serves as a digital bridge connecting contemporary audiences to the rich literary past represented by الأبله البغدادي's work.\n\n## Integration within the ArabicPoemRecord\n\nInclusion within the ArabicPoemRecord signifies the poem's acknowledged importance as a cultural artifact. This documentation within a dedicated record highlights the recognition of the poem's value in the broader Arabic literary canon. It provides a foundational reference point for scholars examining patterns and influences in classical Arabic poetry.",
+    "report_json": {
+      "title": "Poem 'هجروا فواصل جفني السهر' by الأبله البغدادي",
+      "summary": "The community centers around the Arabic elegy poem 'هجروا فواصل جفني السهر,' authored by الأبله البغدادي. This poem is a classic example of an elegy, characterized by its thematic focus on mourning and remembrance, and written in the complete form of the kamel meter. The community's structure highlights connections between various poetic elements, meter, and historical context associated with the Ayyubid era poet.",
+      "rating": 3.0,
+      "rating_explanation": "The impact severity rating is relatively low due to the academic and cultural significance of the poem, unlikely to prompt wider-reaching outcomes beyond literary and historical studies.",
+      "findings": [
+        {
+          "summary": "Significance of the poem 'هجروا فواصل جفني السهر'",
+          "explanation": "The poem 'هجروا فواصل جفني السهر' serves as the nucleus of this community, showcasing its distinct properties and connections. It is classified as an elegy, a genre traditionally focused on themes of mourning and nostalgia, which situates it within a specific cultural and literary context. This classification is significant because it frames the poem's thematic exploration and establishes its relevance within the elegy tradition."
+        },
+        {
+          "summary": "Role of الأبله البغدادي as the poet",
+          "explanation": "الأبله البغدادي, recognized as the poet of the poem, offers insight into the poetic traditions of the Ayyubid era. The association with this historical period provides a rich context for the poem's themes and stylistic choices, reflecting the cultural and intellectual environment of the time. This connection underlines the historical significance of the poem and its creator, contributing to a deeper understanding of the literary heritage."
+        },
+        {
+          "summary": "Use of Kamel meter",
+          "explanation": "The poem's structure relies on the kamel meter, a poetic framework known for its rhythmic pattern. This meter enhances the lyrical quality of the poem, supporting its emotive themes. The use of a complete form of the kamel meter suggests meticulous attention to poetic structure, reinforcing the artistry and technical prowess involved in its composition."
+        },
+        {
+          "summary": "Rhyme scheme featuring the letter 'Raa'",
+          "explanation": "Rhyme plays a pivotal role in the poem's aesthetic appeal, with the letter 'raa' being central to its scheme. This strategic use of rhyme underscores the poem's musicality and aids in the reinforcement of its thematic elements. The rhyme scheme's elegance is a testament to the poem's alignment with Arabic poetic traditions, emphasizing the auditory experience of the poetry."
+        },
+        {
+          "summary": "Online access via a dedicated URL",
+          "explanation": "The accessibility of the poem through the specified URL provides valuable opportunities for broader academic and literary engagement. This online resource allows readers and researchers to explore the poem in greater depth, facilitating scholarly analysis and appreciation of its nuances. It serves as a digital bridge connecting contemporary audiences to the rich literary past represented by الأبله البغدادي's work."
+        },
+        {
+          "summary": "Integration within the ArabicPoemRecord",
+          "explanation": "Inclusion within the ArabicPoemRecord signifies the poem's acknowledged importance as a cultural artifact. This documentation within a dedicated record highlights the recognition of the poem's value in the broader Arabic literary canon. It provides a foundational reference point for scholars examining patterns and influences in classical Arabic poetry."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 3",
+    "edges": [
+      [
+        "\"الأبله البغدادي\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"ELEGY POEMS\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"COMPLETE\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"RAA\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"AYYUBID\"",
+        "\"الأبله البغدادي\""
+      ],
+      [
+        "\"KAMEL\"",
+        "\"هجروا فواصل جفني السهر\""
+      ],
+      [
+        "\"HTTPS://POETRY.DCTABUDHABI.AE/#/POEMS/119920-%D9%87%D8%AC%D8%B1%D9%88%D8%A7-%D9%81%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%81%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%87%D8%B1\"",
+        "\"هجروا فواصل جفني السهر\""
+      ]
+    ],
+    "nodes": [
+      "\"RAA\"",
+      "\"COMPLETE\"",
+      "\"ELEGY POEMS\"",
+      "\"الأبله البغدادي\"",
+      "\"HTTPS://POETRY.DCTABUDHABI.AE/#/POEMS/119920-%D9%87%D8%AC%D8%B1%D9%88%D8%A7-%D9%81%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%81%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%87%D8%B1\"",
+      "\"KAMEL\"",
+      "\"هجروا فواصل جفني السهر\""
+    ],
+    "chunk_ids": [
+      "chunk-e694a8469b6715b1d8c470bf0e3282b1",
+      "chunk-086c2b9a69446413e535b12a43458992",
+      "chunk-48a220389ef652b63a702a882d91f75e",
+      "chunk-38635e905de039277844d774b73be852",
+      "chunk-f11006c2052925773233963e9a0d63db",
+      "chunk-88eeef6ad076d682b869ecc06eef6af2"
+    ],
+    "occurrence": 0.5454545454545454,
+    "sub_communities": []
+  },
+  "4": {
+    "report_string": "# إسهامات شعرية في العصر الأندلسي: أبو الحسن الحصري وأبو زيد الفازازي\n\nThis report focuses on the contributions of two notable poets from the Andalusian period, أبو الحسن الحصري and أبو زيد الفازازي, highlighting their poetic styles and their works. Both poets are associated with the Andalusian era, known for its rich poetic tradition. Key elements include the use of the taweel meter, praise poem genres, and specific rhyme schemes, reflecting their mastery of the traditional Arabic literature forms.\n\n## أبو الحسن الحصري's Role as an Andalusian Poet\n\nأبو الحسن الحصري is a prominent poet from the Andalusian era, whose work emphasizes praise poems in Arabic. His poetry reflects the cultural richness of Andalusia, characterized by the use of traditional meters like taweel. His famous poem, 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ', showcases his dexterity in applying these classic forms.\n\n## The Poem 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ'\n\nThis poem, authored by أبو الحسن الحصري, is a quintessential example of a praise poem, adhering to the traditional rhyme scheme of 'faa'. Its literary significance is anchored in its structure and thematic alignment with the Andalusian poetic tradition, contributing to the broader tapestry of Arabic literature.\n\n## Taweel Meter in Andalusian Poetry\n\nThe taweel meter is a classical form of meter in Arabic poetry, utilized by both أبو الحسن الحصري and أبو زيد الفازازي. This meter is known for its specific rhythmic and musical structure, which is evident in the poetry from the Andalusian period, enhancing the poems' lyrical quality and emotional resonance.\n\n## أبو زيد الفازازي's Contributions to Poetry\n\nAnother significant poet of the era, أبو زيد الفازازي, is known for his work in the taweel meter. His poem 'أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ' is a testament to his skill and understanding of Arabic poetic forms. His association with the Andalusian era further highlights the period's cultural and literary significance.\n\n## Arabic Poem Record's Archival Importance\n\nArabicPoemRecord serves a crucial role in preserving the works of poets like أبو الحسن الحصري, ensuring the endurance of their poetic heritage. This archival effort is vital for maintaining the cultural and historical legacy of the Andalusian period, illuminating the era's contributions to the classical Arabic literary canon.",
+    "report_json": {
+      "title": "إسهامات شعرية في العصر الأندلسي: أبو الحسن الحصري وأبو زيد الفازازي",
+      "summary": "This report focuses on the contributions of two notable poets from the Andalusian period, أبو الحسن الحصري and أبو زيد الفازازي, highlighting their poetic styles and their works. Both poets are associated with the Andalusian era, known for its rich poetic tradition. Key elements include the use of the taweel meter, praise poem genres, and specific rhyme schemes, reflecting their mastery of the traditional Arabic literature forms.",
+      "rating": 6.0,
+      "rating_explanation": "The community's importance is rated as moderate due to its contribution to cultural and literary heritage in the classical Arabic literary tradition.",
+      "findings": [
+        {
+          "summary": "أبو الحسن الحصري's Role as an Andalusian Poet",
+          "explanation": "أبو الحسن الحصري is a prominent poet from the Andalusian era, whose work emphasizes praise poems in Arabic. His poetry reflects the cultural richness of Andalusia, characterized by the use of traditional meters like taweel. His famous poem, 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ', showcases his dexterity in applying these classic forms."
+        },
+        {
+          "summary": "The Poem 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ'",
+          "explanation": "This poem, authored by أبو الحسن الحصري, is a quintessential example of a praise poem, adhering to the traditional rhyme scheme of 'faa'. Its literary significance is anchored in its structure and thematic alignment with the Andalusian poetic tradition, contributing to the broader tapestry of Arabic literature."
+        },
+        {
+          "summary": "Taweel Meter in Andalusian Poetry",
+          "explanation": "The taweel meter is a classical form of meter in Arabic poetry, utilized by both أبو الحسن الحصري and أبو زيد الفازازي. This meter is known for its specific rhythmic and musical structure, which is evident in the poetry from the Andalusian period, enhancing the poems' lyrical quality and emotional resonance."
+        },
+        {
+          "summary": "أبو زيد الفازازي's Contributions to Poetry",
+          "explanation": "Another significant poet of the era, أبو زيد الفازازي, is known for his work in the taweel meter. His poem 'أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ' is a testament to his skill and understanding of Arabic poetic forms. His association with the Andalusian era further highlights the period's cultural and literary significance."
+        },
+        {
+          "summary": "Arabic Poem Record's Archival Importance",
+          "explanation": "ArabicPoemRecord serves a crucial role in preserving the works of poets like أبو الحسن الحصري, ensuring the endurance of their poetic heritage. This archival effort is vital for maintaining the cultural and historical legacy of the Andalusian period, illuminating the era's contributions to the classical Arabic literary canon."
+        }
+      ]
+    },
+    "level": 0,
+    "title": "Cluster 4",
+    "edges": [
+      [
+        "\"FAA\"",
+        "\"أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ\""
+      ],
+      [
+        "\"أبو زيد الفازازي\"",
+        "\"أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ\""
+      ],
+      [
+        "\"ANDALUSIAN\"",
+        "\"أبو زيد الفازازي\""
+      ],
+      [
+        "\"ANDALUSIAN\"",
+        "\"أبو الحسن الحصري\""
+      ],
+      [
+        "\"PRAISE POEMS\"",
+        "\"أبو الحسن الحصري\""
+      ],
+      [
+        "\"TAWEEL\"",
+        "\"أبو الحسن الحصري\""
+      ],
+      [
+        "\"TAWEEL\"",
+        "\"أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ\""
+      ],
+      [
+        "\"PRAISE POEMS\"",
+        "\"أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ\""
+      ],
+      [
+        "\"أبو الحسن الحصري\"",
+        "\"أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ\""
+      ],
+      [
+        "\"ARABICPOEMRECORD\"",
+        "\"أبو الحسن الحصري\""
+      ]
+    ],
+    "nodes": [
+      "\"أبو الحسن الحصري\"",
+      "\"أبو زيد الفازازي\"",
+      "\"PRAISE POEMS\"",
+      "\"أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ\"",
+      "\"FAA\"",
+      "\"أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ\"",
+      "\"ANDALUSIAN\"",
+      "\"TAWEEL\""
+    ],
+    "chunk_ids": [
+      "chunk-ea998bec94f22849ee883a0321ab76ad",
+      "chunk-a2809291a8ca3c68f895993e053dabaa",
+      "chunk-cd34b6e441d24dfb17af8c091323dd94",
+      "chunk-33b8de86f4eb6b8fb669ef756f05673b",
+      "chunk-18d5b8e3e34aa299526a11bff3b75f34"
+    ],
+    "occurrence": 0.45454545454545453,
+    "sub_communities": []
+  }
+}

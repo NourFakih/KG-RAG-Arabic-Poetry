@@ -1,0 +1,1098 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="order" attr.type="long" />
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a poem that reflects themes of longing and yearning, written in the kamel meter and rhyming on meem."</data>
+      <data key="d2">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;SIBT IBN AL-TAWAWIDHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sibt Ibn al-Tawawidhi is the poet who wrote the poem 'Zafarat Wajd Ma Yaboukh Diramaha'. He was a male poet from the Ayyubid era known for his works in classical Arabic poetry."</data>
+      <data key="d2">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;AYYUBID&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ayyubid refers to the historical era during which the poet الأبله البغدادي composed, providing historical context to the poem."&lt;SEP&gt;"The Ayyubid era refers to a period and location associated with a dynasty that ruled parts of the Middle East during the 12th and 13th centuries, and it provides the historical context for the poem."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852&lt;SEP&gt;chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;KAMEL METER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Kamel is a traditional Arabic metrical pattern used in the poem to create rhythm and structure."&lt;SEP&gt;"Kamel meter is a metrical pattern used in classical Arabic poetry, characterized by its complete structure, and is used in the poem 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'."&lt;SEP&gt;"Kamel meter is a poetic meter used in ابن الجنان's poem 'بالسعدِ طالعُك المهل', which features a complete sub_meter and rhymes on lam."&lt;SEP&gt;"The kamel meter is a complete Arabic poetic meter used in 'لك يا وليد تحية الأحرار', indicative of the structural characteristics of the poem."&lt;SEP&gt;"The kamel meter is a poetic structure used in Arabic poetry, noted for its rhythm, and is employed in the poem 'إن الذي سمك العلى وبنى على'."</data>
+      <data key="d2">chunk-0684e35b2d82a7f48b6c2f4cf35586a2&lt;SEP&gt;chunk-f9878dec40a21f0a228621d45c5e28c5&lt;SEP&gt;chunk-f90ae905f13f736d4ec785b3dde27daf&lt;SEP&gt;chunk-18d5b8e3e34aa299526a11bff3b75f34&lt;SEP&gt;chunk-94b8f3e126592081efa168ee2e1187e9</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;MEEM RHYME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Meem is the rhyme scheme of the poem, characterized by the repetition of the 'm' sound at the end of each line."&lt;SEP&gt;"Meem rhyme refers to the rhyme scheme used in the poem 'يا دارُ أَقوَت بَعدَ أَصرامِها', characterized by its ending rhyme sound."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2&lt;SEP&gt;chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;GENERAL TYPE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The poem is categorized under the general type in Arabic poetry, indicating its thematic breadth."</data>
+      <data key="d2">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;LINK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The link (https://poetry.dctabudhabi.ae/#/poems/13234-زفرات-وجد-ما-يبوخ-ضرامها) provides access to the full text and details of the poem on a poetry website."&lt;SEP&gt;"The link provided (https://poetry.dctabudhabi.ae/#/poems/84826-%D8%A3%D8%A8%D8%A7-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A5%D9%86%D9%8A-%D9%85%D8%B3%D8%AA%D8%AC%D9%8A%D8%B1) connects viewers to the digital record of the poem 'أَبا الحَجاج إِني مُستَجير', facilitating access and dissemination."</data>
+      <data key="d2">chunk-ea998bec94f22849ee883a0321ab76ad&lt;SEP&gt;chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;شاعر الحمراء&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"شاعر الحمراء is the poet of the Modern era who authored the poem 'يا له حُبّا اِتَّحَد'."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;MODERN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Modern era in which شاعر الحمراء wrote, indicating the time period of the poem."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;ARABICPOEMRECORD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ArabicPoemRecord appears to be a data source or database containing information about Arabic poetry, including metadata and details about poems such as 'لك يا وليد تحية الأحرار'."&lt;SEP&gt;"ArabicPoemRecord is a collection or database that includes various Arabic poems, including historical information and metadata related to each entry."&lt;SEP&gt;"ArabicPoemRecord is a platform or collection that archives and provides access to Arabic poetry from various eras and poets."&lt;SEP&gt;"ArabicPoemRecord is a platform or collection where this particular poem 'أرَّق العينَ خيالٌ قد طرقْ' by النبهاني العماني is recorded, providing access to Arabic poetry."&lt;SEP&gt;"ArabicPoemRecord is a possible source or collection platform for Arabic poetry, including metadata and links to specific poems."&lt;SEP&gt;"ArabicPoemRecord is an entity that maintains records of Arabic poems, providing information on various poems including their details and links."&lt;SEP&gt;"ArabicPoemRecord is an organization or digital archive that provides access to Arabic poems, including metadata such as the poem's title, poet, era, and link."&lt;SEP&gt;"ArabicPoemRecord is the document describing a poem, including its title, poet, and other attributes."&lt;SEP&gt;"ArabicPoemRecord refers to a collection or specific piece related to Arabic poetry, encapsulating various details about a poem."&lt;SEP&gt;"ArabicPoemRecord refers to the documentation of an Arabic poem, providing detailed information such as the poet's name, era, meter, rhyme, and a link for access."&lt;SEP&gt;"The Arabic Poem Record is an organization or database that archives and provides access to Arabic poetry, including works from different eras such as the Abbasid era."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e&lt;SEP&gt;chunk-38635e905de039277844d774b73be852&lt;SEP&gt;chunk-0684e35b2d82a7f48b6c2f4cf35586a2&lt;SEP&gt;chunk-649c8222b26b97de373cec4a226cfd65&lt;SEP&gt;chunk-f9c13971ee77a7f680fa113938891a9a&lt;SEP&gt;chunk-d762a14c782898309fae3873fe21f97b&lt;SEP&gt;chunk-f97098d1bb8939c473732d8493e8d2dd&lt;SEP&gt;chunk-0e6c2dbc17aeba39b27b6d2326c06450&lt;SEP&gt;chunk-33b8de86f4eb6b8fb669ef756f05673b&lt;SEP&gt;chunk-88eeef6ad076d682b869ecc06eef6af2&lt;SEP&gt;chunk-94b8f3e126592081efa168ee2e1187e9</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;يا له حُبّا اِتَّحَد&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'يا له حُبّا اِتَّحَد' is the title of the poem written by شاعر الحمراء."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;RHYME: DAL&quot;">
+      <data key="d0">"ATTRIBUTE"</data>
+      <data key="d1">"The rhyme scheme of the poem 'يا له حُبّا اِتَّحَد' which uses the letter 'dal'."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;UNSPECIFIED METER&quot;">
+      <data key="d0">"ATTRIBUTE"</data>
+      <data key="d1">"The meter of the poem is unspecified, indicating no specific rhythmic pattern is provided."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;LINK: HTTPS://POETRY.DCTABUDHABI.AE/#/POEMS/124905-%D9%8A%D8%A7-%D9%84%D9%87-%D8%AD%D8%A8%D8%A7-%D8%A7%D8%AA%D8%AD%D8%AF&quot;">
+      <data key="d0">"RESOURCE"</data>
+      <data key="d1">"A web link to the full text and details of the poem 'يا له حُبّا اِتَّحَد'."</data>
+      <data key="d2">chunk-649c8222b26b97de373cec4a226cfd65</data>
+    </node>
+    <node id="&quot;أرْبَدُ بن ضابِئ الكَلْبِيّ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"أرْبَدُ بن ضابِئ الكَلْبِيّ is the poet of the poem titled بِسَمْنانَ بَوْلُ الْجُوعِ مُسْتَنْقِعاً بِهِ. He wrote during the Pre-Islamic era, and his work is characterized by the use of the taweel meter and a rhyme scheme based on lam."</data>
+      <data key="d2">chunk-1388b0be2b2646cae18d50ee03821787</data>
+    </node>
+    <node id="&quot;بِسَمْنانَ بَوْلُ الْجُوعِ مُسْتَنْقِعاً بِهِ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a poem written by أرْبَدُ بن ضابِئ الكَلْبِيّ during the Pre-Islamic era. The poem employs the taweel meter and focuses on themes hinted at by unspecified elements."</data>
+      <data key="d2">chunk-1388b0be2b2646cae18d50ee03821787</data>
+    </node>
+    <node id="&quot;PRE_ISLAMIC ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Pre-Islamic era is the historical period in which the poem was written, providing context for its themes and style."</data>
+      <data key="d2">chunk-1388b0be2b2646cae18d50ee03821787</data>
+    </node>
+    <node id="&quot;TAWEEL METER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Taweel meter is a type of poetic meter used in Arabic poetry, characterized by a specific rhythmic and structural pattern."&lt;SEP&gt;"The Taweel Meter is a traditional Arabic poetic meter used in the poem by Muhammad bin Uthaymeen. It is known for its long and harmonious rhythm, often used to convey deep and reflective themes."&lt;SEP&gt;"The taweel meter is a specific poetic meter used in Arabic poetry, characterized by its long and complete structure, used in the poem by أرْبَدُ بن ضابِئ الكَلْبِيّ."</data>
+      <data key="d2">chunk-1388b0be2b2646cae18d50ee03821787&lt;SEP&gt;chunk-8a062370971796be96ddcc4ceddc2ada&lt;SEP&gt;chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+    </node>
+    <node id="&quot;LAM RHYME&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Lam Rhyme refers to the rhyming pattern used in the poem 'ألا يا قلب فارحل عن الأكوان جمله', where the words at the end of each line rhyme with each other on the letter 'lam'."&lt;SEP&gt;"The lam rhyme is a rhyming scheme used in the poem, characterized by the repetition of the sound 'lam' at the end of verses."</data>
+      <data key="d2">chunk-1388b0be2b2646cae18d50ee03821787&lt;SEP&gt;chunk-006c97b7420b9993999b564260a17dac</data>
+    </node>
+    <node id="&quot;جميل صدقي الزهاوي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"جميل صدقي الزهاوي is the poet of the poem titled 'انظر إلى الكواكب', known for his work in the Modern era. His poem is classified as a religious poem and is composed in the rajaz meter with a rhyme on 'baa'."</data>
+      <data key="d2">chunk-6afff7c50347c9fca9a0d553cabf9ead</data>
+    </node>
+    <node id="&quot;انظر إلى الكواكب&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'انظر إلى الكواكب' is the title of a poem written by جميل صدقي الزهاوي, focusing on themes related to religious and spiritual contemplation, employing the rajaz meter."</data>
+      <data key="d2">chunk-6afff7c50347c9fca9a0d553cabf9ead</data>
+    </node>
+    <node id="&quot;ARABIC POEM RECORD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Arabic Poem Record is a collection or database where the poem 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل' by Ibn Sanāʾ Al-Mulk is recorded and made accessible online."&lt;SEP&gt;"Arabic Poem Record is the catalog or database where the poem 'أنت أنت يا قمري' is listed, providing structured metadata about the poem."&lt;SEP&gt;"Arabic Poem Record refers to the information and characteristics of the poem 'انظر إلى الكواكب', including its title, era, and classification."</data>
+      <data key="d2">chunk-086c2b9a69446413e535b12a43458992&lt;SEP&gt;chunk-f9878dec40a21f0a228621d45c5e28c5&lt;SEP&gt;chunk-6afff7c50347c9fca9a0d553cabf9ead</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;MODERN ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Modern Era is the time period during which the poet جميل صدقي الزهاوي composed his works, reflecting contemporary themes and styles."&lt;SEP&gt;"Modern Era refers to the time period in which Amin Nasser Al-Din wrote the poem, indicative of modern stylistic influences."&lt;SEP&gt;"Modern era refers to the period in which أبو مسلم البهلاني composed his poetry, indicative of contemporary influences and styles."&lt;SEP&gt;"The Modern Era in poetry represents a period characterized by certain stylistic elements and themes, during which Ahmad Al-Qoussi composed his works."&lt;SEP&gt;"The Modern Era is a historical period during which جبران خليل جبران wrote, characterized by modern advancements and literary movements."&lt;SEP&gt;"The Modern Era is the time period during which the poem 'وصبت ورَيعانُ الشبيبةِ مونقُ' was composed by حيدر الحلي."&lt;SEP&gt;"The Modern Era is the time period during which the poet إبراهيم قفطان composed his works, indicating contemporary themes and style."&lt;SEP&gt;"The Modern Era is the time period during which the poet سليم نصر الله جُدي composed his works, characterized by contemporary themes and styles."&lt;SEP&gt;"The term Modern Era refers to the temporal context in which Muhammad bin Uthaymeen wrote his poetry, indicating contemporary themes and stylistic influences."</data>
+      <data key="d2">chunk-ea998bec94f22849ee883a0321ab76ad&lt;SEP&gt;chunk-086c2b9a69446413e535b12a43458992&lt;SEP&gt;chunk-48a220389ef652b63a702a882d91f75e&lt;SEP&gt;chunk-6afff7c50347c9fca9a0d553cabf9ead&lt;SEP&gt;chunk-0684e35b2d82a7f48b6c2f4cf35586a2&lt;SEP&gt;chunk-8a062370971796be96ddcc4ceddc2ada&lt;SEP&gt;chunk-574995445d508cfe5d07ca866bd4b274&lt;SEP&gt;chunk-4e64a4aabaf691e02ae82cff3045b9e2&lt;SEP&gt;chunk-94b8f3e126592081efa168ee2e1187e9</data>
+    </node>
+    <node id="&quot;RAJAZ METER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rajaz Meter is a poetic meter used in Arabic poetry, characterized by its particular rhythmic structure and employed in the poem 'انظر إلى الكواكب'."</data>
+      <data key="d2">chunk-6afff7c50347c9fca9a0d553cabf9ead</data>
+    </node>
+    <node id="&quot;RELIGIOUS POEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Religious Poems are a category of poetry that explore themes related to spirituality and religion, to which the poem 'انظر إلى الكواكب' belongs."&lt;SEP&gt;"Religious poems are a genre of poetry that address themes related to faith, spirituality, and devotion, as is the case with 'ببابك يا الله عبدك مخبت'."</data>
+      <data key="d2">chunk-8a062370971796be96ddcc4ceddc2ada&lt;SEP&gt;chunk-6afff7c50347c9fca9a0d553cabf9ead</data>
+    </node>
+    <node id="&quot;أبو بكر العيدروس&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"أبو بكر العيدروس is the poet of the poem titled 'ألا يا قلب فارحل عن الأكوان جمله'. He was active during the Mamluk era and is notable for his contributions to Arabic literature, particularly in the genre of wisdom poems."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac</data>
+    </node>
+    <node id="&quot;MAMLUK ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mamluk Era is a historical period during which the poet أبو بكر العيدروس lived and composed poetry. The era is known for its rich cultural and artistic achievements."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac</data>
+    </node>
+    <node id="&quot;WISDOM POEMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Wisdom Poems is a genre of poetry that emphasizes moral and philosophical themes, encouraging insight and reflection, exemplified by the works of Muhammad bin Uthaymeen."&lt;SEP&gt;"Wisdom Poems is a genre that focuses on themes of knowledge, reflection, and philosophical insights. This poem 'ألا يا قلب فارحل عن الأكوان جمله' belongs to this category."&lt;SEP&gt;"Wisdom poems are a genre of poetry that often convey life lessons and thoughtful reflections, exemplified by 'أرَّق العينَ خيالٌ قد طرقْ'."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac&lt;SEP&gt;chunk-4e64a4aabaf691e02ae82cff3045b9e2&lt;SEP&gt;chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+    </node>
+    <node id="&quot;POEM 'ألا يا قلب فارحل عن الأكوان جمله'&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is a poem written by أبو بكر العيدروس. It uses the mawalia meter, rhymes on lam, and is classified as a wisdom poem, exploring themes of reflection and knowledge."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac</data>
+    </node>
+    <node id="&quot;MAWALIA METER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Mawalia is a poetic meter used in the poem 'ألا يا قلب فارحل عن الأكوان جمله'. It is known for its specific rhythmic structure and is part of traditional Arabic poetry."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac</data>
+    </node>
+    <node id="&quot;ARABIC VERSE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Arabic Verse from the poem includes 'وعهدناك ثابت العزم لكن — رحت واحسرتاه شهيد ثباتك', reflecting the thematic and emotional elements of the poem."&lt;SEP&gt;"The Arabic verse refers to the two lines of the poem: 'تفكر لي في الكون وانظر كيف أصله — تجده الكل محتاج إلى جوده وفضله', which convey the poem's theme of contemplation and reflection about the universe."</data>
+      <data key="d2">chunk-006c97b7420b9993999b564260a17dac&lt;SEP&gt;chunk-574995445d508cfe5d07ca866bd4b274</data>
+    </node>
+    <node id="&quot;الأبله البغدادي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"الأبله البغدادي is the poet of the poem, associated with the Ayyubid era and known for composing elegy poems."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;هجروا فواصل جفني السهر&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"هجروا فواصل جفني السهر is the title of the poem, written by الأبله البغدادي, with themes of elegy and written in the kamel meter."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;KAMEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Kamel is a poetic meter used in the poem 'لا تُبدِلَن غالي الزمانِ ببخسِهِ' by نيقولاوس الصائغ, known for its complete meter form."&lt;SEP&gt;"Kamel is a type of meter used in Arabic poetry, characterized by its specific rhythmic pattern and structure, as seen in حيدر الحلي's poem."&lt;SEP&gt;"Kamel is the meter used in the poem هجروا فواصل جفني السهر, providing rhythmic structure to the composition."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1&lt;SEP&gt;chunk-48a220389ef652b63a702a882d91f75e&lt;SEP&gt;chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;COMPLETE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Complete is the sub_meter specification of the poem, indicating the completeness of the kamel meter used."&lt;SEP&gt;"Complete refers to the full structure of the khafif meter used in this poem."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852&lt;SEP&gt;chunk-f11006c2052925773233963e9a0d63db</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;RAA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Raa is the rhyme letter used in the poem هجروا فواصل جفني السهر, contributing to its elegiac structure."&lt;SEP&gt;"Raa is the rhyme scheme utilized in the poem 'أنت أنت يا قمري', indicating a focus on sound and poetic tradition."&lt;SEP&gt;"Raa is the rhyme utilised in the poem 'شكر اللَّه منك سقيك شكرا', providing a specific sound pattern."</data>
+      <data key="d2">chunk-086c2b9a69446413e535b12a43458992&lt;SEP&gt;chunk-88eeef6ad076d682b869ecc06eef6af2&lt;SEP&gt;chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;ELEGY POEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Elegy poems refer to the genre of poetry focused on lamentation or mourning, which the poem هجروا فواصل جفني السهر falls under."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;HTTPS://POETRY.DCTABUDHABI.AE/#/POEMS/119920-%D9%87%D8%AC%D8%B1%D9%88%D8%A7-%D9%81%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%81%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%87%D8%B1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"This URL links to the online source or database entry for the poem هجروا فواصل جفني السهر, providing access to additional information about the poem."</data>
+      <data key="d2">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;الحبسي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"الحبسي is an Ottoman-era male poet who wrote the poem titled 'شكر اللَّه منك سقْيك شكرا'."</data>
+      <data key="d2">chunk-88eeef6ad076d682b869ecc06eef6af2</data>
+    </node>
+    <node id="&quot;OTTOMAN ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ottoman Era refers to the historical period during which the poem 'شكر اللَّه منك سقْيك شكرا' was written."</data>
+      <data key="d2">chunk-88eeef6ad076d682b869ecc06eef6af2</data>
+    </node>
+    <node id="&quot;شكر اللَّه منك سقيك شكرا&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'شكر اللَّه منك سقيك شكرا' is a poem written by الحبسي, characterized by the use of the khafif meter and a rhyme ending in 'raa'."</data>
+      <data key="d2">chunk-88eeef6ad076d682b869ecc06eef6af2</data>
+    </node>
+    <node id="&quot;KHAFIF&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Khafif is a poetic meter used in Arabic poetry, employed in the poem 'شكر اللَّه منك سقيك شكرا'."&lt;SEP&gt;"Khafif is a poetic meter used often in classical Arabic poetry, characterized by its light rhythm."&lt;SEP&gt;"Khafif is the specific poetic meter used in the poem 'زرتُ مثواك يا حبيبي وكل', known for its rhythmic structure and flow."</data>
+      <data key="d2">chunk-88eeef6ad076d682b869ecc06eef6af2&lt;SEP&gt;chunk-f11006c2052925773233963e9a0d63db&lt;SEP&gt;chunk-574995445d508cfe5d07ca866bd4b274</data>
+    </node>
+    <node id="&quot;سليم نصر الله جُدي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"سليم نصر الله جُدي is the poet of the Arabic poem titled 'زرتُ مثواك يا حبيبي وكل'. He belongs to the Modern era and is male."</data>
+      <data key="d2">chunk-574995445d508cfe5d07ca866bd4b274</data>
+    </node>
+    <node id="&quot;زرتُ مثواك يا حبيبي وكل&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'زرتُ مثواك يا حبيبي وكل' is a poem written by سليم نصر الله جُدي. It is structured in khafif meter and rhymes with 'taa'."</data>
+      <data key="d2">chunk-574995445d508cfe5d07ca866bd4b274</data>
+    </node>
+    <node id="&quot;TAA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Taa is the rhyme scheme employed in the poem 'زرتُ مثواك يا حبيبي وكل', providing a specific phonetic ending pattern."</data>
+      <data key="d2">chunk-574995445d508cfe5d07ca866bd4b274</data>
+    </node>
+    <node id="&quot;سليمان الصولة&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"سليمان الصولة is the poet of the poem titled 'أيا كوكب الشرق الذي ران حبه'. He is associated with the Modern era and is identified as male."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;أيا كوكب الشرق الذي ران حبه&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The poem 'أيا كوكب الشرق الذي ران حبه' is a praise poem written in the taweel meter, rhyming on noon, and it's known for its praise theme."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;كوكب الشرق&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"كوكب الشرق refers to a significant reference point or symbol, possibly metaphorical in the context of the poem."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;الخلافة&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"الخلافة refers to a historical or metaphorical caliphate under whose protection someone remained esteemed or honored."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;العفاة&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"العفاة refer to those in need or destitute, who are being aided according to the poem."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;رضوانا&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"رضوانا indicates a state of approval or contentment achieved by the subject of the poem."</data>
+      <data key="d2">chunk-f0ee5659148a03c97b345064b367a31a</data>
+    </node>
+    <node id="&quot;عبد الغني النابلسي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"عبد الغني النابلسي is the poet of the poem titled 'رب موصولٍ هو الناي الذي', known for his works during the Ottoman era."</data>
+      <data key="d2">chunk-e312d8bdcf3f771946ab444c09fd268d</data>
+    </node>
+    <node id="&quot;OTTOMAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ottoman era is the historical period during which the poet عبد الغني النابلسي lived and wrote this poem."&lt;SEP&gt;"The Ottoman era is the historical period during which the poet نيقولاوس الصائغ was active. This context influences the themes and style of his poetry."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1&lt;SEP&gt;chunk-e312d8bdcf3f771946ab444c09fd268d</data>
+    </node>
+    <node id="&quot;رب موصولٍ هو الناي الذي&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The poem titled 'رب موصولٍ هو الناي الذي' is a short poem composed using the ramel meter with a rhyme scheme on meem, written by عبد الغني النابلسي."</data>
+      <data key="d2">chunk-e312d8bdcf3f771946ab444c09fd268d</data>
+    </node>
+    <node id="&quot;RAMEL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ramel is a poetic meter used in Arabic poetry, notable in the poem 'أرَّق العينَ خيالٌ قد طرقْ' by النبهاني العماني."&lt;SEP&gt;"Ramel is a type of poetic meter used in Arabic poetry, exemplified in the poem 'رب موصولٍ هو الناي الذي'."</data>
+      <data key="d2">chunk-e312d8bdcf3f771946ab444c09fd268d&lt;SEP&gt;chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+    </node>
+    <node id="&quot;MEEM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Meem is the rhyme used in the poem 'رب موصولٍ هو الناي الذي', which is a characteristic feature of its structure."</data>
+      <data key="d2">chunk-e312d8bdcf3f771946ab444c09fd268d</data>
+    </node>
+    <node id="&quot;قصائد قصيره&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"قصائد قصيره, meaning 'short poems', is a type of Arabic poetry that includes the poem 'رب موصولٍ هو الناي الذي'."</data>
+      <data key="d2">chunk-e312d8bdcf3f771946ab444c09fd268d</data>
+    </node>
+    <node id="&quot;عَمْرُو بْنُ كُلْثُوم&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"عَمْرُو بْنُ كُلْثُوم is the poet of the poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا'. He belongs to the Pre-Islamic era and is known for his contributions to Arabic poetry."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa</data>
+    </node>
+    <node id="&quot;أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا' is a short poem written by the poet عَمْرُو بْنُ كُلْثُوم, characterized by its use of the taweel meter and lam rhyme."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa</data>
+    </node>
+    <node id="&quot;PRE-ISLAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Pre-Islam era is the historical context during which the poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا' was written by عَمْرُو بْنُ كُلْثُوم. This era is characterized by its rich oral poetry traditions."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa</data>
+    </node>
+    <node id="&quot;TAWEEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Taweel is a classical Arabic meter used in poetry, characterized by its specific rhythmic and metric structure. It is employed in the poem by أبو زيد الفازازي."&lt;SEP&gt;"Taweel is a traditional Arabic meter used in poetry, known for its long and rhythmic structure."&lt;SEP&gt;"Taweel is a type of poetic meter used in Arabic poetry. It consists of a specific rhythmic and musical structure, which is employed in the poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا'."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa&lt;SEP&gt;chunk-cd34b6e441d24dfb17af8c091323dd94&lt;SEP&gt;chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;LAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lam is the final rhyme used in this poem, characteristic of its poetic structure."&lt;SEP&gt;"Lam is the rhyme scheme used in the poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا'. It refers to the repeated sound at the end of each line, contributing to the poem's musicality."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa&lt;SEP&gt;chunk-f11006c2052925773233963e9a0d63db</data>
+    </node>
+    <node id="&quot;SHORT POEMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Short poems (قصائد قصيره) refer to the category of poetry that includes concise poetic works, like 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا', that convey profound themes succinctly."</data>
+      <data key="d2">chunk-a2809291a8ca3c68f895993e053dabaa</data>
+    </node>
+    <node id="&quot;محيي الدين بن عربي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"محيي الدين بن عربي is a male poet from the Ayyubid era, known for writing romantic poems characterized by deep emotion and philosophical themes."</data>
+      <data key="d2">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;AYYUBID ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ayyubid Era is the historical period during which the poet Ibn Sanāʾ Al-Mulk lived and composed his works."&lt;SEP&gt;"The Ayyubid Era is the historical period during which محيي الدين بن عربي lived and wrote his poetry, known for cultural and intellectual activity in the Islamic world."</data>
+      <data key="d2">chunk-f9878dec40a21f0a228621d45c5e28c5&lt;SEP&gt;chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;كان لي قلبٌ فلما ارتحل&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'كان لي قلبٌ فلما ارتحل' is a romantic poem by محيي الدين بن عربي, using the ramel meter and focusing on themes of love and longing, with a rhyme on lam."</data>
+      <data key="d2">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;RAMEL METER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ramel Meter is a traditional poetic meter used in Arabic poetry, characterized by its rhythm and structure, employed in the poem 'كان لي قلبٌ فلما ارتحل.'"</data>
+      <data key="d2">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;RHYME ON LAM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Rhyme on Lam refers to the poetic structure in the poem 'كان لي قلبٌ فلما ارتحل,' where the end of each verse rhymes on the Arabic letter 'lam.'"&lt;SEP&gt;"Rhyme on Lam refers to the specific rhyming scheme used in Muhammad bin Uthaymeen's poem, where the concluding sound of the lines is 'lam'. This scheme contributes to the poem's aesthetic and rhythm."&lt;SEP&gt;"Rhyme on lam is a characteristic of the poem 'بالسعدِ طالعُك المهل' by ابن الجنان, reflecting a stylistic choice in its construction."&lt;SEP&gt;"Rhyme on lam is a characteristic of the poem 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل', where each line ends with the letter lam, typical of some classical Arabic poetry."</data>
+      <data key="d2">chunk-f9878dec40a21f0a228621d45c5e28c5&lt;SEP&gt;chunk-18d5b8e3e34aa299526a11bff3b75f34&lt;SEP&gt;chunk-4e64a4aabaf691e02ae82cff3045b9e2&lt;SEP&gt;chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;النابِغَة الشيباني&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"النابِغَة الشيباني is a male poet from the Umayyad era, known for composing sad poems using the khafif meter with a complete sub-meter."</data>
+      <data key="d2">chunk-f11006c2052925773233963e9a0d63db</data>
+    </node>
+    <node id="&quot;UMAYYAD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Umayyad period is an era in Islamic history during which النابِغَة الشيباني wrote this poem."&lt;SEP&gt;"Umayyad refers to the historical era during which الطرماح بن حكيم الطائي composed his poetry."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2&lt;SEP&gt;chunk-f11006c2052925773233963e9a0d63db</data>
+    </node>
+    <node id="&quot;آذَنَ اليَومَ جيرَتي بِاِرتِحال&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a poem by النابِغَة الشيباني, reflecting themes of departure and sadness as suggested by the genre of sad poems."</data>
+      <data key="d2">chunk-f11006c2052925773233963e9a0d63db</data>
+    </node>
+    <node id="&quot;نيقولاوس الصائغ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"نيقولاوس الصائغ is an Ottoman-era poet known for writing reproach poems. He authored the poem titled 'لا تُبدِلَن غالي الزمانِ ببخسِهِ', using the kamel meter and a rhyme scheme that ends in 'seen'."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+    </node>
+    <node id="&quot;لا تُبدِلَن غالي الزمانِ ببخسِهِ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a reproach poem written by نيقولاوس الصائغ, featuring the kamel meter and a rhyme scheme ending in 'seen'."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+    </node>
+    <node id="&quot;REPROACH POEMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Reproach poems are a type of poetry characterized by themes of rebuke or admonition, and this particular poem by نيقولاوس الصائغ falls within this genre."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+    </node>
+    <node id="&quot;قصائد عتاب&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"قصائد عتاب translates to 'reproach poems', a type of Arabic poetry reflecting themes of admonition and rebuke. This is the Arabic category for the poet's work."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+    </node>
+    <node id="&quot;كامل&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"كامل is the Arabic term for the kamel meter, used to describe the poetic structure of ابن الجنان’s poem."&lt;SEP&gt;"كامل refers to the kamel poetic meter used in the poem, indicating a specific rhythmic structure in Arabic poetry."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1&lt;SEP&gt;chunk-18d5b8e3e34aa299526a11bff3b75f34</data>
+    </node>
+    <node id="&quot;تام&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"تام describes the complete sub_meter aspect of the kamel meter in ابن الجنان's poem, indicating its rhythmic precision."&lt;SEP&gt;"تام refers to the complete form of the kamel meter used in the poem 'لا تُبدِلَن غالي الزمانِ ببخسِهِ'."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1&lt;SEP&gt;chunk-18d5b8e3e34aa299526a11bff3b75f34</data>
+    </node>
+    <node id="&quot;SEEN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Seen refers to the rhyme scheme ending sound used in the poem, characteristic of its rhythmic and phonetic style."</data>
+      <data key="d2">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+    </node>
+    <node id="&quot;AMIN NASSER AL-DIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Amin Nasser Al-Din is the poet of the Arabic poem 'أنت أنت يا قمري', recognized for his contribution to Modern Arabic poetry."</data>
+      <data key="d2">chunk-086c2b9a69446413e535b12a43458992</data>
+    </node>
+    <node id="&quot;أنت أنت يا قمري&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"أنت أنت يا قمري is an Arabic poem authored by Amin Nasser Al-Din, characterized by its modern era style and unspecified meter and theme."</data>
+      <data key="d2">chunk-086c2b9a69446413e535b12a43458992</data>
+    </node>
+    <node id="&quot;أبو الحسن الحصري&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"أبو الحسن الحصري is a male poet from the Andalusian era, known for writing praise poems in Arabic. This particular poem uses the taweel meter with a complete sub-meter and a rhyme on 'faa'."</data>
+      <data key="d2">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;ANDALUSIAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Andalusian refers to a historical period and region in the Iberian Peninsula, known for its rich cultural and literary contributions."&lt;SEP&gt;"Andalusian refers to the era or region associated with the poet ابن الجنان, indicating a historical and geographical context for his work."&lt;SEP&gt;"Andalusian refers to the historical and geographical context in which the poet أبو زيد الفازازي lived and created his works."</data>
+      <data key="d2">chunk-33b8de86f4eb6b8fb669ef756f05673b&lt;SEP&gt;chunk-18d5b8e3e34aa299526a11bff3b75f34&lt;SEP&gt;chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ is the title of a praise poem written by أبو الحسن الحصري, reflecting themes typical of Andalusian poetic tradition."</data>
+      <data key="d2">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;PRAISE POEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Praise poems are a genre of poetry focusing on extolling virtues and asking for aid or honor, as exemplified by the poem 'أَبا الحَجاج إِني مُستَجير'."&lt;SEP&gt;"Praise poems are a type of poetic form commonly used in Arabic literature, often celebrating individuals, events, or virtues."</data>
+      <data key="d2">chunk-33b8de86f4eb6b8fb669ef756f05673b&lt;SEP&gt;chunk-ea998bec94f22849ee883a0321ab76ad</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;FAA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Faa refers to the rhyme scheme utilized in the poem, signifying that each verse ends with a rhyme on the sound 'faa'."</data>
+      <data key="d2">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;أحمد القوصي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ahmad Al-Qoussi is the poet of the poem titled 'أَبا الحَجاج إِني مُستَجير', a modern-era poet known for praise poems. He is male and utilizes the wafer complete meter in his poetry."</data>
+      <data key="d2">chunk-ea998bec94f22849ee883a0321ab76ad</data>
+    </node>
+    <node id="&quot;أَبا الحَجاج إِني مُستَجير&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The poem titled 'أَبا الحَجاج إِني مُستَجير' is a modern-era praise poem using the wafer meter with meem rhyme, focusing on seeking aid and not being wronged when turning to honorable people."</data>
+      <data key="d2">chunk-ea998bec94f22849ee883a0321ab76ad</data>
+    </node>
+    <node id="&quot;WAFER METER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The wafer meter is a specific metrical pattern used in Arabic poetry, known here as the complete version, integral to the poem's structure."</data>
+      <data key="d2">chunk-ea998bec94f22849ee883a0321ab76ad</data>
+    </node>
+    <node id="&quot;إبراهيم قفطان&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"إبراهيم قفطان is a modern era male poet known for his work 'إن الذي سمك العلى وبنى على', characterized by using the kamel meter and rhyming on 'eain'."</data>
+      <data key="d2">chunk-0684e35b2d82a7f48b6c2f4cf35586a2</data>
+    </node>
+    <node id="&quot;إن الذي سمك العلى وبنى على&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'إن الذي سمك العلى وبنى على' is a poem composed by إبراهيم قفطان that reflects themes of celestial imagery and eloquence, employing the kamel meter."</data>
+      <data key="d2">chunk-0684e35b2d82a7f48b6c2f4cf35586a2</data>
+    </node>
+    <node id="&quot;RHYME EAIN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Rhyme eain refers to the rhyming scheme used in إبراهيم قفطان's poem, indicating a specific sound pattern characteristic of his composition."</data>
+      <data key="d2">chunk-0684e35b2d82a7f48b6c2f4cf35586a2</data>
+    </node>
+    <node id="&quot;POEM LINK&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The link 'https://poetry.dctabudhabi.ae/#/poems/100142-%D8%A5%D9%86-%D8%A7%D9%84%D8%B0%D9%8A-%D8%B3%D9%85%D9%83-%D8%A7%D9%84%D8%B9%D9%84%D9%89-%D9%88%D8%A8%D9%86%D9%89-%D8%B9%D9%84%D9%89' provides digital access to the poem, allowing for online viewing and study."</data>
+      <data key="d2">chunk-0684e35b2d82a7f48b6c2f4cf35586a2</data>
+    </node>
+    <node id="&quot;أبو الحسن الششتري&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Abu al-Hasan al-Shushtari was a male poet from the Andalusian era known for writing poetry in the muashah meter."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;في مقصدي ومُرادي&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'في مقصدي ومُرادي' is the title of a poem written by Abu al-Hasan al-Shushtari, utilizing the muashah meter during the Andalusian era."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;ANDALUSIAN ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Andalusian Era refers to the period in which Abu al-Hasan al-Shushtari and other poets flourished, contributing to the rich cultural and artistic heritage."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;محمد&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muhammad is a significant figure mentioned in the poem's second hemistich, suggesting a thematic focus or dedication."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;MUASHAH METER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Muashah Meter is a poetic structure used in the poem 'في مقصدي ومُرادي', characterized by its unique rhythmic and rhyming patterns."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;POETRY DC ABU DHABI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Poetry DC Abu Dhabi is an organization referenced in the link where the poem is published, reflecting their role in archiving and showcasing Arabic poetry."</data>
+      <data key="d2">chunk-93e58786891278dec7a3b293ed87f799</data>
+    </node>
+    <node id="&quot;MUHAMMAD BIN UTHAYMEEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muhammad bin Uthaymeen, a modern-era male poet, is the author of the poem titled 'قِفوا بي عَلى الرَبعِ المُحيلِ أُسائِلُه'. His works are categorized as wisdom poems, known for their insightful themes."</data>
+      <data key="d2">chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+    </node>
+    <node id="&quot;قِفوا بي عَلى الرَبعِ المُحيلِ أُسائِلُه&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a poem written by Muhammad bin Uthaymeen. It is categorized as a wisdom poem and reflects themes of wisdom through its lyrical content, using the taweel meter."</data>
+      <data key="d2">chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+    </node>
+    <node id="&quot;POETRY PLATFORM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Poetry Platform is an online resource that hosts the works of poets like Muhammad bin Uthaymeen, providing access to a wide array of Arabic poetry, including wisdom poems."</data>
+      <data key="d2">chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+    </node>
+    <node id="&quot;HEMISTICH&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A Hemistich is half a line of verse, a term relevant to the structure of classical Arabic poetry, as seen in Muhammad bin Uthaymeen's work."</data>
+      <data key="d2">chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+    </node>
+    <node id="&quot;ابن الجنان&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"ابن الجنان is a male Andalusian poet associated with the poem titled 'بالسعدِ طالعُك المهل', written in the kamel meter with a rhyme on lam."</data>
+      <data key="d2">chunk-18d5b8e3e34aa299526a11bff3b75f34</data>
+    </node>
+    <node id="&quot;بالسعدِ طالعُك المهل&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"بالسعدِ طالعُك المهل is the title of a poem written by ابن الجنان, employing the kamel meter and focusing on unspecified themes, indicative of the poet's style and era."</data>
+      <data key="d2">chunk-18d5b8e3e34aa299526a11bff3b75f34</data>
+    </node>
+    <node id="&quot;حيدر الحلي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"حيدر الحلي is the poet of the poem titled 'وصبت ورَيعانُ الشبيبةِ مونقُ'. He is associated with the Modern era and known for composing romantic poems."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e</data>
+    </node>
+    <node id="&quot;وصبت ورَيعانُ الشبيبةِ مونقُ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'وصبت ورَيعانُ الشبيبةِ مونقُ' is a poem composed by حيدر الحلي, characterized by the kamel meter and complete sub_meter, falling under the romantic poems category."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e</data>
+    </node>
+    <node id="&quot;ROMANTIC POEMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Romantic poems are a genre of poetry that typically explores themes of love and romance, and حيدر الحلي's poem is categorized under this type."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e</data>
+    </node>
+    <node id="&quot;KHAAF&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Khaaf is the rhyme scheme used in the poem 'أرَّق العينَ خيالٌ قد طرقْ'."&lt;SEP&gt;"Khaaf refers to the rhyme scheme used in حيدر الحلي's poem 'وصبت ورَيعانُ الشبيبةِ مونقُ', highlighting its poetic structure."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e&lt;SEP&gt;chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+    </node>
+    <node id="&quot;HTTPS://POETRY.DCTABUDHABI.AE&quot;#">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"link: The link to the poem 'وصبت ورَيعانُ الشبيبةِ مونقُ' on the ArabicPoemRecord platform, where additional details can be found."</data>
+      <data key="d2">chunk-48a220389ef652b63a702a882d91f75e</data>
+    </node>
+    <node id="&quot;جبران خليل جبران&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"جبران خليل جبران is a modern era male poet who authored the poem 'لك يا وليد تحية الأحرار'."</data>
+      <data key="d2">chunk-94b8f3e126592081efa168ee2e1187e9</data>
+    </node>
+    <node id="&quot;لك يا وليد تحية الأحرار&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'لك يا وليد تحية الأحرار' is a poem written by جبران خليل جبران, using the kamel meter and addressing themes in a general style."</data>
+      <data key="d2">chunk-94b8f3e126592081efa168ee2e1187e9</data>
+    </node>
+    <node id="&quot;الطرماح بن حكيم الطائي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"الطرماح بن حكيم الطائي is the poet of the poem titled 'يا دارُ أَقوَت بَعدَ أَصرامِها', known for his work during the Umayyad era."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+    </node>
+    <node id="&quot;يا دارُ أَقوَت بَعدَ أَصرامِها&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'يا دارُ أَقوَت بَعدَ أَصرامِها' is the title of a poem composed by الطرماح بن حكيم الطائي using the saree meter and rhyming on meem."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SAREE METER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Saree meter is a poetic meter used in the poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' by الطرماح بن حكيم الطائي."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;GENERAL THEME&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"General theme describes the overarching subject matter of the poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' as interpreted in its English summary."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ARABIC POETRY DATABASE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Arabic Poetry Database is the organization providing access to the poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' via an online link."</data>
+      <data key="d2">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;IBN SANĀʾ AL-MULK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ibn Sanāʾ Al-Mulk is the poet of the poem 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل', belonging to the Ayyubid era and known for writing romantic poetry using kamel meter."</data>
+      <data key="d2">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is a romantic poem composed by Ibn Sanāʾ Al-Mulk during the Ayyubid era, known for its kamel meter and rhyme on lam."</data>
+      <data key="d2">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;النبهاني العماني&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"النبهاني العماني is a Mamluk-era poet known for writing poems, including the poem titled 'أرَّق العينَ خيالٌ قد طرقْ'."</data>
+      <data key="d2">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;MAMLUK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Mamluk era is the historical period during which the poet النبهاني العماني wrote his works."</data>
+      <data key="d2">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;أرَّق العينَ خيالٌ قد طرقْ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'أرَّق العينَ خيالٌ قد طرقْ' is a poem written by the poet النبهاني العماني, characterized by wisdom themes and using the ramel meter."</data>
+      <data key="d2">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+    </node>
+    <node id="&quot;جحظة البرمكي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"جحظة البرمكي is an Abbasid-era poet known for writing satire poems. He wrote the poem titled 'لَمّا حُجِبتُ بِبابِ دا', using the kamel meter with complete sub_meter and a rhyme on lam."</data>
+      <data key="d2">chunk-f9c13971ee77a7f680fa113938891a9a</data>
+    </node>
+    <node id="&quot;لَمّا حُجِبتُ بِبابِ دا&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is a poem written by جحظة البرمكي, categorized as a satire poem using the kamel meter. It reflects thematic elements typical of satire and carries cultural significance from the Abbasid era."</data>
+      <data key="d2">chunk-f9c13971ee77a7f680fa113938891a9a</data>
+    </node>
+    <node id="&quot;ABBASID&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Abbasid era is a significant period in Islamic history, known for its cultural, scientific, and literary advancements. It provides the historical and cultural context for جحظة البرمكي's poetry."</data>
+      <data key="d2">chunk-f9c13971ee77a7f680fa113938891a9a</data>
+    </node>
+    <node id="&quot;SATIRE POEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Satire poems are a genre of poetry that use humor, irony, or ridicule to criticize or expose human vices or social issues. جحظة البرمكي's poem 'لَمّا حُجِبتُ بِبابِ دا' belongs to this category."</data>
+      <data key="d2">chunk-f9c13971ee77a7f680fa113938891a9a</data>
+    </node>
+    <node id="&quot;أبو مسلم البهلاني&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"أبو مسلم البهلاني is a male poet from the Modern era, author of religious poems including 'ببابك يا الله عبدك مخبت'."</data>
+      <data key="d2">chunk-8a062370971796be96ddcc4ceddc2ada</data>
+    </node>
+    <node id="&quot;ببابك يا الله عبدك مخبت&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ببابك يا الله عبدك مخبت is a religious poem written by أبو مسلم البهلاني, using the taweel meter."</data>
+      <data key="d2">chunk-8a062370971796be96ddcc4ceddc2ada</data>
+    </node>
+    <node id="&quot;شبلي الأطرش&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"شبلي الأطرش is the poet of the poem titled 'ياللَه يا رب القَدر يا عالي', written in the Modern era. He is associated with this literary work and is identified as 'm'."</data>
+      <data key="d2">chunk-d762a14c782898309fae3873fe21f97b</data>
+    </node>
+    <node id="&quot;المعاصر&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Modern refers to the era in which the poem was written, indicating a particular period in literary history."</data>
+      <data key="d2">chunk-d762a14c782898309fae3873fe21f97b</data>
+    </node>
+    <node id="&quot;ياللَه يا رب القَدر يا عالي&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This title is associated with a poem that employs the colloquial meter, written by شبلي الأطرش in the Modern era."</data>
+      <data key="d2">chunk-d762a14c782898309fae3873fe21f97b</data>
+    </node>
+    <node id="&quot;سورة الإخلاص&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sura Al-Ikhlas is a chapter in the Quran mentioned in the poem, representing themes of monotheism and devotion in Islamic scripture."</data>
+      <data key="d2">chunk-d762a14c782898309fae3873fe21f97b</data>
+    </node>
+    <node id="&quot;سورة الأنفالي&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sura Al-Anfal is a chapter in the Quran, likely referenced in the poem to invoke themes of struggle and divine support."</data>
+      <data key="d2">chunk-d762a14c782898309fae3873fe21f97b</data>
+    </node>
+    <node id="&quot;أبو زيد الفازازي&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"أبو زيد الفازازي is a male Andalusian poet known for writing in the taweel meter. He authored the poem titled 'أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ'."</data>
+      <data key="d2">chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This is the title of a poem written by أبو زيد الفازازي in the taweel meter. It speaks to an unspecified theme and is part of his literary contributions during the Andalusian era."</data>
+      <data key="d2">chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;SIBT IBN AL-TAWAWIDHI&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Sibt Ibn al-Tawawidhi is the author of the poem, and his style and themes are reflected in the work."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;AYYUBID&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'Zafarat Wajd Ma Yaboukh Diramaha' is set in the historical context of the Ayyubid era, influencing its themes and style."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;KAMEL METER&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The poem 'Zafarat Wajd Ma Yaboukh Diramaha' uses the Kamel meter to establish its rhythm and cadence."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;MEEM RHYME&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The poem employs the Meem rhyme scheme, adding to its acoustic aesthetics."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;GENERAL TYPE&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The poem is categorized under the general type in Arabic poetry, indicating its broad thematic classification."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZAFARAT WAJD MA YABOUKH DIRAMAHA&quot;" target="&quot;LINK&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"The link provides direct access to the poem, offering readers a way to explore its text and context further."</data>
+      <data key="d6">chunk-f90ae905f13f736d4ec785b3dde27daf</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AYYUBID&quot;" target="&quot;الأبله البغدادي&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"الأبله البغدادي was a poet during the Ayyubid era, indicating a historical connection and providing context to their works."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;KAMEL METER&quot;" target="&quot;POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem uses the kamel meter, which defines its rhythmic structure."</data>
+      <data key="d6">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MEEM RHYME&quot;" target="&quot;يا دارُ أَقوَت بَعدَ أَصرامِها&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' employs meem as its rhyme scheme."</data>
+      <data key="d6">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARABICPOEMRECORD&quot;" target="&quot;هجروا فواصل جفني السهر&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The ArabicPoemRecord refers to a record which includes the poem titled هجروا فواصل جفني السهر."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARABICPOEMRECORD&quot;" target="&quot;كان لي قلبٌ فلما ارتحل&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The poem 'كان لي قلبٌ فلما ارتحل' is included in the ArabicPoemRecord database, offering detailed information and metadata."</data>
+      <data key="d6">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARABICPOEMRECORD&quot;" target="&quot;أبو الحسن الحصري&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"ArabicPoemRecord archives works of poets like أبو الحسن الحصري, preserving the richness of their poetic contributions."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARABICPOEMRECORD&quot;" target="&quot;النبهاني العماني&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"ArabicPoemRecord features or records the works of النبهاني العماني, including his poem 'أرَّق العينَ خيالٌ قد طرقْ'. "</data>
+      <data key="d6">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أرْبَدُ بن ضابِئ الكَلْبِيّ&quot;" target="&quot;بِسَمْنانَ بَوْلُ الْجُوعِ مُسْتَنْقِعاً بِهِ&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem بِسَمْنانَ بَوْلُ الْجُوعِ مُسْتَنْقِعاً بِهِ is authored by أرْبَدُ بن ضابِئ الكَلْبِيّ, linking his literary style and thematic focus to this work."</data>
+      <data key="d6">chunk-1388b0be2b2646cae18d50ee03821787</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LAM RHYME&quot;" target="&quot;POEM 'ألا يا قلب فارحل عن الأكوان جمله'&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'ألا يا قلب فارحل عن الأكوان جمله' employs a rhyme scheme based on the letter 'lam', characteristic of its poetic form."</data>
+      <data key="d6">chunk-006c97b7420b9993999b564260a17dac</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARABIC POEM RECORD&quot;" target="&quot;IBN SANĀʾ AL-MULK&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Ibn Sanāʾ Al-Mulk's poem 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل' is included in the Arabic Poem Record, showcasing his work to a broader audience."</data>
+      <data key="d6">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MODERN ERA&quot;" target="&quot;وصبت ورَيعانُ الشبيبةِ مونقُ&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'وصبت ورَيعانُ الشبيبةِ مونقُ' is associated with and was composed in the Modern Era."</data>
+      <data key="d6">chunk-48a220389ef652b63a702a882d91f75e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو بكر العيدروس&quot;" target="&quot;MAMLUK ERA&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"أبو بكر العيدروس was a poet active during the Mamluk Era, contributing to the literary culture of the period."</data>
+      <data key="d6">chunk-006c97b7420b9993999b564260a17dac</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو بكر العيدروس&quot;" target="&quot;WISDOM POEMS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"أبو بكر العيدروس composed poetry within the Wisdom Poems genre, as exemplified by 'ألا يا قلب فارحل عن الأكوان جمله'."</data>
+      <data key="d6">chunk-006c97b7420b9993999b564260a17dac</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WISDOM POEMS&quot;" target="&quot;أرَّق العينَ خيالٌ قد طرقْ&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem 'أرَّق العينَ خيالٌ قد طرقْ' belongs to the genre of wisdom poems."</data>
+      <data key="d6">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;POEM 'ألا يا قلب فارحل عن الأكوان جمله'&quot;" target="&quot;MAWALIA METER&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem 'ألا يا قلب فارحل عن الأكوان جمله' is structured using the Mawalia Meter, giving it a specific rhythmic pattern."</data>
+      <data key="d6">chunk-006c97b7420b9993999b564260a17dac</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;POEM 'ألا يا قلب فارحل عن الأكوان جمله'&quot;" target="&quot;ARABIC VERSE&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Arabic verse 'تفكر لي في الكون وانظر كيف أصله — تجده الكل محتاج إلى جوده وفضله' is part of the poem and reflects its theme of wisdom."</data>
+      <data key="d6">chunk-006c97b7420b9993999b564260a17dac</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;الأبله البغدادي&quot;" target="&quot;هجروا فواصل جفني السهر&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"الأبله البغدادي is the poet who authored the poem titled هجروا فواصل جفني السهر."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;هجروا فواصل جفني السهر&quot;" target="&quot;KAMEL&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem هجروا فواصل جفني السهر is written in the kamel meter, defining its rhythmic style."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;هجروا فواصل جفني السهر&quot;" target="&quot;COMPLETE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem subscribes to a complete form of the kamel meter, ensuring detailed structure within its verses."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;هجروا فواصل جفني السهر&quot;" target="&quot;RAA&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The rhyme scheme of the poem relies on the letter raa, vital for its lyrical impact."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;هجروا فواصل جفني السهر&quot;" target="&quot;ELEGY POEMS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"This poem is categorized as an elegy poem, which emphasizes themes of mourning and remembrance."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;هجروا فواصل جفني السهر&quot;" target="&quot;HTTPS://POETRY.DCTABUDHABI.AE/#/POEMS/119920-%D9%87%D8%AC%D8%B1%D9%88%D8%A7-%D9%81%D9%88%D8%A7%D8%B5%D9%84-%D8%AC%D9%81%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%87%D8%B1&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The URL provides online access and context to the specific poem هجروا فواصل جفني السهر."</data>
+      <data key="d6">chunk-38635e905de039277844d774b73be852</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;سليمان الصولة&quot;" target="&quot;أيا كوكب الشرق الذي ران حبه&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"سليمان الصولة is the creator of the poem 'أيا كوكب الشرق الذي ران حبه'."</data>
+      <data key="d6">chunk-f0ee5659148a03c97b345064b367a31a</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;كوكب الشرق&quot;" target="&quot;الخلافة&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"The status and honor within الخلافة are metaphorically associated with or linked to كوكب الشرق in the poem."</data>
+      <data key="d6">chunk-f0ee5659148a03c97b345064b367a31a</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;الخلافة&quot;" target="&quot;العفاة&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"الخلافة provides protection and support to العفاة as described metaphorically in the poem."</data>
+      <data key="d6">chunk-f0ee5659148a03c97b345064b367a31a</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;العفاة&quot;" target="&quot;رضوانا&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"العفاة find aid and ultimately رضوانا, symbolizing approval or contentment through the poem's narrative."</data>
+      <data key="d6">chunk-f0ee5659148a03c97b345064b367a31a</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;OTTOMAN&quot;" target="&quot;نيقولاوس الصائغ&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"نيقولاوس الصائغ was a poet during the Ottoman era, and his work reflects the cultural and historical context of this period."</data>
+      <data key="d6">chunk-e694a8469b6715b1d8c470bf0e3282b1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;RAMEL&quot;" target="&quot;أرَّق العينَ خيالٌ قد طرقْ&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem 'أرَّق العينَ خيالٌ قد طرقْ' is composed using the ramel meter."</data>
+      <data key="d6">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;عَمْرُو بْنُ كُلْثُوم&quot;" target="&quot;أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"عَمْرُو بْنُ كُلْثُوم is the poet who authored the poem 'أَلا هَلْ أَتى بِنْتَ الثُّوَيْرِ مَغارُنا'."</data>
+      <data key="d6">chunk-a2809291a8ca3c68f895993e053dabaa</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TAWEEL&quot;" target="&quot;أبو الحسن الحصري&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"أبو الحسن الحصري's poem employs the taweel meter, indicating his mastery and use of traditional Arabic poetic forms."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TAWEEL&quot;" target="&quot;أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem 'أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ' uses the taweel meter, known for its traditional rhythmic pattern in Arabic poetry."</data>
+      <data key="d6">chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;محيي الدين بن عربي&quot;" target="&quot;AYYUBID ERA&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"محيي الدين بن عربي was a poet who lived and produced his work during the Ayyubid Era."</data>
+      <data key="d6">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;محيي الدين بن عربي&quot;" target="&quot;كان لي قلبٌ فلما ارتحل&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"'كان لي قلبٌ فلما ارتحل' is a poem written by محيي الدين بن عربي, reflecting his style and themes."</data>
+      <data key="d6">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AYYUBID ERA&quot;" target="&quot;IBN SANĀʾ AL-MULK&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Ibn Sanāʾ Al-Mulk is a poet who wrote during the Ayyubid Era, reflecting the cultural and historical context of that period in his poetry."</data>
+      <data key="d6">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;كان لي قلبٌ فلما ارتحل&quot;" target="&quot;RAMEL METER&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'كان لي قلبٌ فلما ارتحل' is composed using the Ramel Meter, which is significant to its form and style."</data>
+      <data key="d6">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;كان لي قلبٌ فلما ارتحل&quot;" target="&quot;RHYME ON LAM&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The poem 'كان لي قلبٌ فلما ارتحل' features a rhyme on the letter 'lam,' contributing to its lyrical quality."</data>
+      <data key="d6">chunk-0e6c2dbc17aeba39b27b6d2326c06450</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;RHYME ON LAM&quot;" target="&quot;POEM 'رجَعَ الغرامَ إِلى الحبيبِ الأَوَّل'&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The rhyme scheme of the poem is based on the repetition of the letter lam at the end of each line."</data>
+      <data key="d6">chunk-f9878dec40a21f0a228621d45c5e28c5</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;النابِغَة الشيباني&quot;" target="&quot;UMAYYAD&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"النابِغَة الشيباني was active as a poet during the Umayyad era, influencing and being influenced by the cultural and historical context of the time."</data>
+      <data key="d6">chunk-f11006c2052925773233963e9a0d63db</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;UMAYYAD&quot;" target="&quot;الطرماح بن حكيم الطائي&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"الطرماح بن حكيم الطائي is associated with the Umayyad era, which is the period during which he wrote his poetry."</data>
+      <data key="d6">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AMIN NASSER AL-DIN&quot;" target="&quot;أنت أنت يا قمري&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Amin Nasser Al-Din is the poet who authored the poem 'أنت أنت يا قمري', contributing to its creation and theme."</data>
+      <data key="d6">chunk-086c2b9a69446413e535b12a43458992</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو الحسن الحصري&quot;" target="&quot;أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"أبو الحسن الحصري is the author of the poem titled 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ', showcasing his poetic style and themes."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو الحسن الحصري&quot;" target="&quot;ANDALUSIAN&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"أبو الحسن الحصري is associated with the Andalusian era, which influences his style and thematic choices in poetry."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو الحسن الحصري&quot;" target="&quot;PRAISE POEMS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"أبو الحسن الحصري is known for writing praise poems, which are reflected in the themes of his work."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ANDALUSIAN&quot;" target="&quot;أبو زيد الفازازي&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"أبو زيد الفازازي was an Andalusian poet, linking his cultural and geographical heritage to his poetic contributions."</data>
+      <data key="d6">chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ&quot;" target="&quot;PRAISE POEMS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The poem 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ' is categorized as a praise poem, which informs its thematic focus and style."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ&quot;" target="&quot;FAA&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'أَيا كَعبَة كانَت مُنى المُتَطَوِّفِ' uses the 'faa' rhyme scheme, demonstrating a particular form of stylistic choice in Arabic poetry."</data>
+      <data key="d6">chunk-33b8de86f4eb6b8fb669ef756f05673b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أحمد القوصي&quot;" target="&quot;أَبا الحَجاج إِني مُستَجير&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Ahmad Al-Qoussi is the poet who wrote the poem 'أَبا الحَجاج إِني مُستَجير', indicating his literary creation and contribution to praise poetry."</data>
+      <data key="d6">chunk-ea998bec94f22849ee883a0321ab76ad</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو الحسن الششتري&quot;" target="&quot;في مقصدي ومُرادي&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Abu al-Hasan al-Shushtari is the poet who wrote the poem 'في مقصدي ومُرادي' using the muashah meter."</data>
+      <data key="d6">chunk-93e58786891278dec7a3b293ed87f799</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MUHAMMAD BIN UTHAYMEEN&quot;" target="&quot;قِفوا بي عَلى الرَبعِ المُحيلِ أُسائِلُه&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Muhammad bin Uthaymeen wrote the poem 'قِفوا بي عَلى الرَبعِ المُحيلِ أُسائِلُه', which exemplifies wisdom poetry through its content and structure."</data>
+      <data key="d6">chunk-4e64a4aabaf691e02ae82cff3045b9e2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;حيدر الحلي&quot;" target="&quot;وصبت ورَيعانُ الشبيبةِ مونقُ&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"حيدر الحلي is the poet who authored the poem 'وصبت ورَيعانُ الشبيبةِ مونقُ' during the Modern era."</data>
+      <data key="d6">chunk-48a220389ef652b63a702a882d91f75e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;KHAAF&quot;" target="&quot;أرَّق العينَ خيالٌ قد طرقْ&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The poem 'أرَّق العينَ خيالٌ قد طرقْ' features a rhyme scheme based on khaaf."</data>
+      <data key="d6">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;يا دارُ أَقوَت بَعدَ أَصرامِها&quot;" target="&quot;SAREE METER&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' is composed using the saree meter."</data>
+      <data key="d6">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;يا دارُ أَقوَت بَعدَ أَصرامِها&quot;" target="&quot;GENERAL THEME&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' addresses a general theme as summarized in its English description."</data>
+      <data key="d6">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;يا دارُ أَقوَت بَعدَ أَصرامِها&quot;" target="&quot;ARABIC POETRY DATABASE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Arabic Poetry Database provides access to the poem 'يا دارُ أَقوَت بَعدَ أَصرامِها' through an online platform."</data>
+      <data key="d6">chunk-df9fb40b781c35cb4e59566d727fc3c2</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;النبهاني العماني&quot;" target="&quot;MAMLUK&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"النبهاني العماني is a poet who belongs to the Mamluk era, indicating the historical context of his works."</data>
+      <data key="d6">chunk-f97098d1bb8939c473732d8493e8d2dd</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو مسلم البهلاني&quot;" target="&quot;ببابك يا الله عبدك مخبت&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"أبو مسلم البهلاني is the poet who wrote the poem 'ببابك يا الله عبدك مخبت'."</data>
+      <data key="d6">chunk-8a062370971796be96ddcc4ceddc2ada</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;أبو زيد الفازازي&quot;" target="&quot;أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"أبو زيد الفازازي is the author of the poem titled 'أَلا فاذكروا المُختارَ تَحظوا بِخَيرِهِ', which is significant to his body of work."</data>
+      <data key="d6">chunk-cd34b6e441d24dfb17af8c091323dd94</data>
+      <data key="d7">1</data>
+    </edge>
+  </graph>
+</graphml>

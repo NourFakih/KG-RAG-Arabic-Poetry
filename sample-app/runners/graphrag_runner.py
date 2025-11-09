@@ -30,7 +30,11 @@ except ImportError:  # pragma: no cover
     FireStoreKVStorage = None  # type: ignore
 
 from .baserag_runner import BaseRagRunner
-from .graphrag_limits import get_graphrag_limits
+
+try:  # when runners is treated as a package, grab helper from parent
+    from ..graphrag_limits import get_graphrag_limits
+except ImportError:  # fallback for direct script execution
+    from graphrag_limits import get_graphrag_limits  # type: ignore
 
 
 _CHUNK_SPLIT = re.compile(r"--New Chunk--\\n")
