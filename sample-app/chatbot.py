@@ -11,6 +11,8 @@ from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
 
 HERE = Path(__file__).resolve().parent
 
+from graphrag_limits import get_graphrag_limits
+
 from openai import OpenAI
 from nano_graphrag.graphrag import GraphRAG  # type: ignore
 from nano_graphrag.base import QueryParam  # type: ignore
@@ -96,6 +98,8 @@ def initialise_rag() -> GraphRAG:
     if chroma_collection:
         vector_kwargs["collection_name"] = _sanitize_collection(chroma_collection)
 
+    limit_kwargs = get_graphrag_limits(env)
+
     rag_kwargs = dict(
         working_dir=str(working_dir),
         graph_storage_cls=Neo4jStorage,
@@ -105,6 +109,7 @@ def initialise_rag() -> GraphRAG:
         },
         enable_naive_rag=True,
     )
+    rag_kwargs.update(limit_kwargs)
 
     if ChromaDBStorage is not None:
         rag_kwargs["vector_db_storage_cls"] = ChromaDBStorage

@@ -30,6 +30,7 @@ except ImportError:  # pragma: no cover
     FireStoreKVStorage = None  # type: ignore
 
 from .baserag_runner import BaseRagRunner
+from .graphrag_limits import get_graphrag_limits
 
 
 _CHUNK_SPLIT = re.compile(r"--New Chunk--\\n")
@@ -73,6 +74,8 @@ class GraphRAGRunner(BaseRagRunner):
         self.debug_log.write_text("", encoding="utf-8")  # clear old log
 
         graph_kwargs: Dict = {**kwargs}
+        for key, value in get_graphrag_limits().items():
+            graph_kwargs.setdefault(key, value)
         addon_params = dict(graph_kwargs.pop("addon_params", {}))
         vector_kwargs: Dict = dict(graph_kwargs.pop("vector_db_storage_cls_kwargs", {}))
 

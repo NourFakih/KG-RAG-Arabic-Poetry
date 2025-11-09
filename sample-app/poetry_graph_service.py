@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Dict, List, Sequence
 
 from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
+from graphrag_limits import get_graphrag_limits
 
 HERE = Path(__file__).resolve().parent
 
@@ -148,6 +149,8 @@ class PoetryGraphRAGService:
             embedding_func = openai_embedding
 
         runner_kwargs.setdefault("mode", mode)
+        for key, value in get_graphrag_limits().items():
+            runner_kwargs.setdefault(key, value)
         self._runner = GraphRAGRunner(
             workdir=self.workdir,
             run_id=self.run_id,

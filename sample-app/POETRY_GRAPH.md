@@ -33,6 +33,32 @@ Both modules expect the `nano-graphrag` repo to live next to `sample-app/` (whic
 
 The CLI and service default to in-process `NetworkX` + `NanoVectorDB`, so you can start locally without Neo4j/Chroma.
 
+### Avoiding API rate limits
+
+Every GraphRAG instance created by this sample now injects conservative throttling defaults:
+
+```
+best_model_max_async = 1
+cheap_model_max_async = 1
+embedding_func_max_async = 1
+embedding_batch_num = 8
+best_model_max_token_size = 4096
+cheap_model_max_token_size = 2048
+```
+
+Override them via environment variables whenever you have higher quotas:
+
+| Env var                             | GraphRAG kwarg                |
+| ----------------------------------- | ----------------------------- |
+| `GRAPH_RAG_BEST_MODEL_MAX_ASYNC`    | `best_model_max_async`        |
+| `GRAPH_RAG_CHEAP_MODEL_MAX_ASYNC`   | `cheap_model_max_async`       |
+| `GRAPH_RAG_EMBEDDING_MAX_ASYNC`     | `embedding_func_max_async`    |
+| `GRAPH_RAG_EMBEDDING_BATCH`         | `embedding_batch_num`         |
+| `GRAPH_RAG_BEST_MODEL_MAX_TOKENS`   | `best_model_max_token_size`   |
+| `GRAPH_RAG_CHEAP_MODEL_MAX_TOKENS`  | `cheap_model_max_token_size`  |
+
+These settings keep OpenAI from responding with `429 Too Many Requests` when you index larger corpora inside a Codespace.
+
 ## CLI usage
 
 Build an index for the demo CSV (filters are optional and can be repeated):

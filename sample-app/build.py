@@ -8,6 +8,8 @@ from _vendor_paths import NANO_GRAPHRAG_PATH  # noqa: F401
 
 HERE = Path(__file__).resolve().parent
 
+from graphrag_limits import get_graphrag_limits
+
 from nano_graphrag.graphrag import GraphRAG
 from nano_graphrag.base import QueryParam
 from nano_graphrag._storage import Neo4jStorage
@@ -99,6 +101,8 @@ def build() -> None:
     if chroma_collection:
         vector_kwargs["collection_name"] = _sanitize_collection(chroma_collection)
 
+    limit_kwargs = get_graphrag_limits(env)
+
     rag_kwargs = dict(
         working_dir=str(working_dir),
         graph_storage_cls=Neo4jStorage,
@@ -108,6 +112,7 @@ def build() -> None:
         },
         enable_naive_rag=True,
     )
+    rag_kwargs.update(limit_kwargs)
 
     if ChromaDBStorage is not None:
         rag_kwargs["vector_db_storage_cls"] = ChromaDBStorage
